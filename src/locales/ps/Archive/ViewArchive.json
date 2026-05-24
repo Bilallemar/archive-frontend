@@ -1,0 +1,17 @@
+{
+  "title": "د آرشیف تفصیلات",
+  "type": "ډول",
+  "incoming": "وارده",
+  "outgoing": "صادره",
+  "docNo": "نمبر مکتوب",
+  "incomingDate": "تاریخ وارده",
+  "outgoingDate": "تاریخ صادره",
+  "organization": "اداره",
+  "submittedDate": "د شعبه نیټه",
+  "docType": "نوع سند",
+  "year": "سال",
+  "description": "ملاحظات",
+  "notAvailable": "N/A",
+  "noArchiveSelected": "هیڅ آرشیف نه دی ټاکل شوی",
+  "close": "بندول"
+}

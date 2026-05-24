@@ -1,0 +1,69 @@
+{
+  "title": "Supreme Court Nasharat Registration and Management",
+  "newNasharat": "Register New Nasharat",
+  "newIncoming": "Register Incoming Documents",
+  "newOutgoing": "Register Outgoing Documents",
+  "viewOutgoing": "View Outgoing Documents",
+  "viewIncoming": "View Incoming Documents",
+
+  "recordTypeForDirection": "Record Type",
+
+  "type": "Type",
+  "incoming": "Incoming",
+  "outgoing": "Outgoing",
+  "all": "All",
+
+  "docNo": "Document / Parcel Number",
+  "departmentDate": "Department Date",
+  "incomingDate": "Incoming Date",
+  "outgoingDate": "Outgoing Date",
+  "sendDate": "Send Date",
+  "submittedDate": "Submission Date",
+
+  "org": "Render",
+  "organization": "Receiver",
+  "sender": "Sender",
+  "receiver": "Receiver",
+
+  "docType": "Document Type",
+  "year": "Year",
+  "description": "Remarks",
+  "descriptionPlaceholder": "Enter relevant remarks",
+
+  "view": "View",
+  "edit": "Edit",
+  "delete": "Delete",
+  "save": "Save",
+  "cancel": "Cancel",
+  "close": "Close",
+  "back": "Back",
+
+  "actions": "Actions",
+  "rowsPerPage": "Rows per page",
+
+  "search": "Search",
+  "filter": "Filter",
+  "fieldDocNo": "Document Number",
+  "fieldOrg": "Organization",
+  "fieldYear": "Year",
+  "fieldDocType": "Document Type",
+
+  "deleteDialogTitle": "Delete Confirmation",
+  "deleteDialogText": "Are you sure you want to delete this record?",
+
+  "loading": "Loading data...",
+  "success": "Operation completed successfully",
+  "error": "An error occurred",
+  "loadError": "Failed to load data",
+  "deleteSuccess": "Record deleted successfully",
+  "deleteError": "Failed to delete record",
+  "noData": "No data available",
+  "notAvailable": "Not available",
+  "noArchiveSelected": "No archive selected",
+  "remarksPlaceholder": "Enter remarks here...",
+
+  "selectOrg": "Select organization",
+  "selectDocType": "Select document type",
+
+  "required": "This field is required"
+}

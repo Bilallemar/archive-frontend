@@ -1,0 +1,18 @@
+/* toolbar-rtl.css - Add this as a new file */
+
+/* [dir="rtl"] .MuiAppBar-root {
+  right: 280px !important;
+  left: auto !important;
+}
+
+[dir="rtl"] .MuiToolbar-root {
+  direction: ltr !important;
+}
+
+[dir="rtl"] .MuiToolbar-root > .MuiIconButton-edgeStart {
+  margin-right: 16px !important;
+}
+
+[dir="rtl"] .MuiToolbar-root > .MuiTypography-root {
+  text-align: left !important;
+} */

@@ -1,0 +1,16 @@
+{
+  "createUser": "ایجاد کاربر جدید",
+  "username": "نام کاربر",
+  "email": "ایمیل",
+  "password": "رمز عبور",
+  "role": "نقش",
+  "cancel": "لغو",
+  "create": "ایجاد",
+  "profileImage": "تصویر پروفایل (اختیاری)",
+  "requiredFields": "تمام فیلدهای ضروری را پر کنید",
+  "successCreate": "کاربر با موفقیت ایجاد شد",
+  "error": "مشکلی رخ داد",
+  "usernamePlaceholder": "نام کاربر را وارد کنید",
+  "emailPlaceholder": "ایمیل را وارد کنید",
+  "passwordPlaceholder": "رمز عبور را وارد کنید"
+}

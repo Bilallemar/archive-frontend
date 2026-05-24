@@ -1,0 +1,93 @@
+{
+  "title": "مدیریت اطلاعات پایه",
+
+  "organizations": "سازمان‌ها",
+  "departments": "بخش‌ها",
+  "types": "انواع",
+  "subTypes": "زیرنوع‌ها",
+  "docTypes": "انواع اسناد",
+  "locations": "موقعیت‌ها",
+
+  "cabinetManagement": "مدیریت آلماري",
+
+  "newOrganization": "سازمان جدید",
+  "newDepartment": "بخش جدید",
+  "newType": "نوع جدید",
+  "newSubType": "زیرنوع جدید",
+  "newDocType": "نوع سند جدید",
+
+  "name": "نام",
+  "description": "توضیحات",
+  "status": "وضعیت",
+
+  "active": "فعال",
+  "inactive": "غیرفعال",
+
+  "save": "ذخیره",
+  "cancel": "انصراف",
+  "edit": "ویرایش",
+  "delete": "حذف",
+
+  "id": "شناسه",
+  "actions": "عملیات",
+  "organization": "سازمان",
+  "type": "نوع",
+
+  "confirmDelete": "آیا مطمئن هستید که می‌خواهید حذف کنید؟",
+
+  "loadError": "خطا در بارگذاری اطلاعات",
+  "operationFailed": "عملیات ناموفق بود",
+  "requiredName": "نام الزامی است",
+
+  "orgNameLabel": "نام سازمان",
+  "departmentNameLabel": "نام بخش",
+  "typeNameLabel": "نام نوع",
+  "subTypeNameLabel": "نام زیرنوع",
+  "docTypeNameLabel": "نام نوع سند",
+
+  "editOrganizationTitle": "ویرایش سازمان",
+  "newOrganizationTitle": "سازمان جدید",
+
+  "editDepartmentTitle": "ویرایش بخش",
+  "newDepartmentTitle": "بخش جدید",
+
+  "editTypeTitle": "ویرایش نوع",
+  "newTypeTitle": "نوع جدید",
+
+  "editSubTypeTitle": "ویرایش زیرنوع",
+  "newSubTypeTitle": "زیرنوع جدید",
+
+  "editDocTypeTitle": "ویرایش نوع سند",
+  "newDocTypeTitle": "نوع سند جدید",
+
+  "nameAndOrgRequired": "نام و سازمان الزامی هستند",
+  "nameAndTypeRequired": "نام و نوع الزامی هستند",
+
+  "organizationUpdated": "سازمان با موفقیت به‌روزرسانی شد",
+  "organizationAdded": "سازمان با موفقیت اضافه شد",
+  "organizationDeleted": "سازمان با موفقیت حذف شد",
+
+  "departmentUpdated": "بخش با موفقیت به‌روزرسانی شد",
+  "departmentAdded": "بخش با موفقیت اضافه شد",
+  "departmentDeleted": "بخش با موفقیت حذف شد",
+
+  "typeUpdated": "نوع با موفقیت به‌روزرسانی شد",
+  "typeAdded": "نوع با موفقیت اضافه شد",
+  "typeDeleted": "نوع با موفقیت حذف شد",
+
+  "subTypeUpdated": "زیرنوع با موفقیت به‌روزرسانی شد",
+  "subTypeAdded": "زیرنوع با موفقیت اضافه شد",
+  "subTypeDeleted": "زیرنوع با موفقیت حذف شد",
+
+  "docTypeUpdated": "نوع سند با موفقیت به‌روزرسانی شد",
+  "docTypeAdded": "نوع سند با موفقیت اضافه شد",
+  "docTypeDeleted": "نوع سند با موفقیت حذف شد",
+
+  "toggleStatusSuccess": "وضعیت با موفقیت تغییر یافت",
+  "toggleStatusFailed": "تغییر وضعیت ناموفق بود",
+
+  "deleteFailed": "حذف ناموفق بود",
+  "loadOrgsError": "بارگذاری سازمان‌ها ناموفق بود",
+  "loadDepartmentsError": "بارگذاری بخش‌ها ناموفق بود",
+  "loadTypesError": "بارگذاری انواع ناموفق بود"
+}

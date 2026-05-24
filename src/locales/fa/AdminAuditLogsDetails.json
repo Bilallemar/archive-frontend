@@ -1,0 +1,26 @@
+{
+  "pageTitle": "لاگ‌های ممیزی برای شناسه رکورد — {{recordId}}",
+  "backButton": "بازگشت",
+
+  "noLogsFound": "هیچ لاگی برای این رکورد یافت نشد.",
+  "loading": "در حال بارگذاری...",
+  "error": {
+    "fetch": "خطا در بارگذاری لاگ‌ها"
+  },
+
+  "table": {
+    "action": "عملیات",
+    "username": "نام کاربری",
+    "tableName": "جدول",
+    "recordId": "شناسه رکورد",
+    "content": "محتوا",
+    "timestamp": "زمان"
+  },
+
+  "unknown": "—",
+
+  "pagination": {
+    "rowsPerPage": "تعداد ردیف در هر صفحه:",
+    "displayedRows": "{{from}}–{{to}} از {{count}}"
+  }
+}

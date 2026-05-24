@@ -1,0 +1,83 @@
+{
+  "page": {
+    "title": "د حاضري کتاب",
+    "back": "شاته",
+    "newIndraj": "نوی اندراج ثبت",
+    "newHazari": "نوی حاضري ثبت"
+  },
+  "scanner": {
+    "folderPath": "د سکنر فولډر مسیر",
+    "folderTitle": "د سکنر  فولډر",
+    "scanButton": "سکن",
+    "scanning": "سکن روان دی...",
+    "loadFiles": "فایلونه پورته کول",
+    "clickToScan": "د سکن پایلو د لیدو لپاره کلیک وکړئ",
+    "filesAvailable": "فایلونه موجود دي",
+    "detectedFiles": "پیژندل شوي فایلونه",
+    "noFiles": "هیڅ فایل ونه موندل شو",
+    "filesFound": "فایلونه وموندل شول",
+    "scanError": "د سکن پر مهال ستونزه",
+    "loadSuccess": "فایلونه په بریالیتوب سره پورته شول",
+    "loadError": "د فایلونو د پورته کولو پر مهال ستونزه"
+  },
+  "upload": {
+    "manualUpload": "یا فایل په لاس سره پورته کړئ",
+    "readyToUpload": "پورته کولو ته چمتو",
+    "removeAll": "ټول لرې کول"
+  },
+  "form": {
+    "volume": "جلد",
+    "recordType": "د ریکارډ ډول",
+    "indraj": "اندراج",
+    "hazari": "حاضري",
+    "type": "ډول",
+    "subType": "د کارکوونکي ډول",
+    "year": "کال",
+    "org": "مرسل",
+    "description": "ملاحظات",
+    "selectTypeFirst": "لومړی ډول وټاکئ",
+    "loading": "پورته کېږي...",
+    "all": "ټول"
+  },
+  "table": {
+    "action": "عمل",
+    "actions": "اجراآت",
+    "direction": "ډول"
+  },
+  "actions": {
+    "cancel": "لغوه",
+    "save": "ثبت",
+    "saving": "ثبت روان دی...",
+    "view": "کتل",
+    "edit": "سمون",
+    "delete": "حذف",
+    "confirm": "تایید"
+  },
+  "messages": {
+
+    "loadDataError": "د معلوماتو د پورته کولو پر مهال ستونزه",
+    "loadSubTypesError": "د فرعي ډولونو د پورته کولو پر مهال ستونزه",
+    "requiredFields": "مهرباني وکړئ ټول اړین معلومات ډک کړئ",
+    "createSuccess": "حاضري په بریالیتوب سره ثبت شوه",
+    "createError": "د ثبت پر مهال ستونزه رامنځته شوه",
+    "deleteSuccess": "حاضري په بریالیتوب سره حذف شوه",
+    "deleteError": "د حذف پر مهال ستونزه رامنځته شوه",
+    "updateSuccess": "حاضري په بریالیتوب سره اصلاح شوه",
+    "updateError": "د اصلاح پر مهال ستونزه رامنځته شوه",
+    "noDataFound": "هیڅ د حاضري معلومات ونه موندل شول",
+"remarksPlaceholder": "ملاحظات ولیکئ..."},
+  "deleteDialog": {
+    "title": "حاضري حذف شي؟",
+    "text": "آیا تاسې ډاډه یاست چې دا حاضري حذف کړئ؟ دا عمل بېرته نه راګرځي."
+  },
+  "cabinetAddress": "د آلماري پته اضافه کړئ",
+  "cabinet": "آلماري",
+  "floor": "پوړ",
+  "shelf": "شیلف",
+  "file": "فایل",
+  "files": "فایلونه",
+  "shelfs": "شیلفونه",
+  "floors": "پوړونه",
+        "rowsPerPage": "په هر مخ کې قطارونه",
+     "of": "له"
+}

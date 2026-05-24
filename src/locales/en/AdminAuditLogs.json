@@ -1,0 +1,42 @@
+{
+  "title": "Audit Logs",
+  "description": "Track all system activities including create, update, and delete operations across all tables.",
+
+  "stats": {
+    "create": "CREATE",
+    "create.label": "New Records",
+    "update": "UPDATE",
+    "update.label": "Modified Records",
+    "delete": "DELETE",
+    "delete.label": "Deleted Records",
+    "total": "Total Logs",
+    "total.label": "All Activities"
+  },
+
+  "table": {
+    "action": "Action",
+    "username": "Username",
+    "tableModel": "Table / Model",
+    "recordId": "Record ID",
+    "content": "Content",
+    "timestamp": "Timestamp",
+    "actions": "Actions"
+  },
+
+  "button": {
+    "view": "View"
+  },
+
+  "unknown": "—",
+  "noData": "No audit logs found",
+  "loading": "Loading...",
+
+  "error": {
+    "fetchFailed": "Error fetching audit logs"
+  },
+
+  "pagination": {
+    "rowsPerPage": "Rows per page:",
+    "displayedRows": "{{from}}–{{to}} of {{count}}"
+  }
+}

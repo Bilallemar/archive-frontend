@@ -1,0 +1,83 @@
+{
+  "page": {
+    "shuraAaliResolutions": "د عالي شورا مصوبات",
+    "newResolution": "د عالي شورا نوې مصوبه",
+    "editResolution": "د عالي شورا د مصوبې سمون",
+    "viewResolution": "د عالي شورا د مصوبې کتنه",
+    "newYadasht": "د عالي شورا نوې یاداشت",
+    "editYadasht": "د عالي شورا د یاداشت سمون",
+    "viewYadasht": "د عالي شورا د یاداشت کتنه",
+    "viewMosawaba":"د عالي شورا د مصوبه کتنه",
+    "back": "بېرته ستنېدل"
+  },
+  "table": {
+    "id": "شمېره",
+    "sendDate": "د لېږلو نېټه",
+    "subject": "موضوع",
+    "senderRef": "د لېږونکي مرجع",
+    "title": "عنوان",
+    "type": "د مصوبې/ یاداشت ډول",
+    "letterNo": "د مکتوب شمېره",
+    "resolutionNumber": "د مصوبې/ یاداشت شمېره",
+    "year": "د تصویب کال",
+    "badgetype": "ډول",
+    "remarks": "ملاحظات",
+    "actions": "اجراآت"
+  },
+  "form": {
+    "sendDate": "د لېږلو نېټه",
+    "subject": "موضوع",
+    "senderReference": "د لېږونکي مرجع",
+    "title": "عنوان",
+    "resolutionType": "د مصوبې ډول",
+    "yadashtType": "د یاداشت ډول",
+    "letterNumber": "د مکتوب شمېره",
+    "resolutionNumber": "د مصوبې شمېره",
+    "yadashtNumber": "د یاداشت شمېره",
+    "approvalYear": "د تصویب کال",
+    "remarks": "ملاحظات",
+    "remarksPlaceholder": "ملاحظات دلته ولیکئ...",
+    "required": "دا برخه الزامي ده"
+  },
+  "actions": {
+    "view": "کتنه",
+    "edit": "سمون",
+    "delete": "حذف",
+    "save": "ثبت",
+    "saveChanges": "د بدلونونو ثبت",
+    "cancel": "لغوه",
+    "close": "تړل",
+    "saving": "د ثبت په حال کې...",
+    "mosawaba": "د عالي شورا مصوبه",
+    "yadasht": "د عالي شورا یاداشت",
+    "all": "ټول",
+    "newMosawaba": "د عالي شورا نوې مصوبه",
+    "newYadasht": "د عالي شورا نوې یاداشت"
+  },
+  "messages": {
+    "loadError": "د مصوبو د بارولو پر مهال تېروتنه رامنځته شوه",
+    "deleteSuccess": "مصوبه په بریالیتوب سره حذف شوه",
+    "deleteFailed": "د مصوبې د حذف پر مهال تېروتنه رامنځته شوه",
+    "updateSuccess": "مصوبه په بریالیتوب سره تازه شوه",
+    "updateFailed": "د مصوبې د تازه کولو پر مهال تېروتنه رامنځته شوه",
+    "created": "مصوبه په بریالیتوب سره ثبت شوه",
+    "createFailed": "د مصوبې د ثبت پر مهال تېروتنه رامنځته شوه"
+
+  },
+  "deleteDialog": {
+    "confirmDelete": "د حذف تایید",
+    "deleteWarning": "ایا تاسو ډاډه یاست چې غواړئ دا مصوبه حذف کړئ؟ دا عمل بېرته نه راګرځي."
+  },
+
+    "cabinetAddress": "د آلماري پته اضافه کړئ",
+  "cabinet": "آلماري",
+  "floor": "پوړ",
+  "shelf": "شیلف",
+  "file": "فایل",
+  "files": "فایلونه",
+  "shelfs": "شیلفونه",
+  "floors": "پوړونه",
+      "subjectRequired": "د موضوع درج کول الزامي دي",
+      "rowsPerPage": "په هر مخ کې قطارونه",
+     "of": "له"
+}

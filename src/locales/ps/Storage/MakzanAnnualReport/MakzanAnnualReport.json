@@ -1,0 +1,84 @@
+{
+  "pageTitle": "د مخزن کلنی راپور",
+  "newReport": "نوی راپور",
+  "addNewReport": "د مخزن نوی کلنی راپور",
+
+  "province": "ولایت",
+  "district": "ولسوالۍ",
+  "address": "پته",
+  "year": "کال",
+  "docType": "د وثیقې ډول",
+  "summaryWaseqa": "د وثیقې لنډیز",
+  "description": "ملاحظات",
+  "actions": "اجراآت",
+
+  "view": "کتنه",
+  "edit": "سمون",
+  "delete": "حذف",
+
+  "save": "ثبت",
+  "cancel": "لغوه",
+  "back": "بېرته ستنېدل",
+  "close": "تړل",
+
+  "viewDetails": "د راپور تفصیلات",
+  "editReport": "د راپور سمون",
+
+  "deleteConfirmTitle": "د راپور حذف",
+  "deleteConfirmMessage": "ایا تاسو ډاډه یاست چې غواړئ دا راپور حذف کړئ؟",
+  "noReportSelected": "هیڅ راپور نه دی ټاکل شوی",
+
+  "addressLabel": "پته",
+  "yearLabel": "کال",
+  "docTypeLabel": "د وثیقې ډول",
+  "summaryWaseqaLabel": "د وثیقې لنډیز",
+  "remarksLabel": "ملاحظات",
+
+  "required": "الزامي",
+  "yearRequired": "کال الزامي دی",
+  "requiredField": "دا برخه الزامي ده",
+  "fillRequired": "مهرباني وکړئ الزامي برخې بشپړې کړئ",
+
+  "selectProvince": "ولایت وټاکئ",
+  "selectDistrict": "ولسوالۍ وټاکئ",
+  "selectDocType": "د وثیقې ډول وټاکئ",
+
+  "scannerFolderTitle": "د سکینر فولډر",
+  "clickToScan": "د سکین لپاره کلیک وکړئ",
+  "scanButton": "سکین",
+  "scanning": "د سکین په حال کې...",
+
+  "loadFiles": "فایلونه پورته کړئ",
+  "detectedFiles": "پیدا شوي فایلونه",
+  "manualUpload": "لاسي پورته کول",
+  "readyToUpload": "د پورته کولو لپاره تیار",
+
+  "noFilesFound": "هیڅ فایل ونه موندل شو",
+  "filesDetected": "فایلونه پیدا شول",
+  "scanError": "سکین ناکام شو",
+  "filesLoadError": "د فایلونو پورته کول ناکام شول",
+
+  "createSuccess": "راپور په بریالیتوب سره ثبت شو",
+  "createError": "د راپور ثبت ناکام شو",
+  "updateSuccess": "راپور په بریالیتوب سره تازه شو",
+  "updateError": "د راپور تازه کول ناکام شول",
+  "deleteSuccess": "راپور په بریالیتوب سره حذف شو",
+  "deleteError": "د راپور د حذف پر مهال ستونزه رامنځته شوه",
+
+  "loadError": "د معلوماتو د بارولو پر مهال ستونزه رامنځته شوه",
+  "rowsPerPage": "په هر مخ کې قطارونه",
+     "of": "له",
+  "loading": "د بارولو په حال کې...",
+  "saving": "د ثبت په حال کې...",
+  "updating": "د تازه کولو په حال کې...",
+
+  "saveChanges": "د بدلونونو ثبت",
+    "cabinetAddress": "د آلماري پته اضافه کړئ",
+  "cabinet": "آلماري",
+  "floor": "پوړ",
+  "shelf": "شیلف",
+  "file": "فایل",
+  "files": "فایلونه",
+  "shelfs": "شیلفونه",
+  "floors": "پوړونه"
+}

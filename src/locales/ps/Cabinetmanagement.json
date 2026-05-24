@@ -1,0 +1,59 @@
+{
+  "cabinetManagement": "د آلماریو مدیریت",
+  "cabinet": "آلماری",
+  "floor": "پوړ",
+  "shelf": "شیلف",
+  "file": "فایل",
+  
+  "files": "فایلونه",
+  "shelfs": "شیلفونه",
+
+  "floors": "پوړونه",
+  "newCabinet": "نوی آلماری",
+  "newFloor": "نوی پوړ",
+  "newShelf": "نوی شیلف",
+  "newFile": "نوی فایل",
+
+  "addCabinet": "نوې آلماری اضافه کړئ",
+  "editCabinet": "آلماری سمول",
+  "deleteCabinet": "آلماری حذف",
+
+  "addFloor": "نوی پوړ اضافه کړئ",
+  "editFloor": "پوړ سمول",
+  "deleteFloor": "پوړ حذف",
+
+  "addShelf": "نوی شیلف اضافه کړئ",
+  "editShelf": "شیلف سمول",
+  "deleteShelf": "شیلف حذف",
+
+  "addFile": "نوی فایل اضافه کړئ",
+  "editFile": "فایل سمول",
+  "deleteFile": "فایل حذف",
+
+  "name": "نوم",
+  "location": "ځای",
+  "description": "توضیح",
+  "fileNumber": "د فایل شمېره",
+
+  "save": "ذخیره",
+  "cancel": "لغوه",
+  "delete": "حذف",
+
+  "noCabinet": "هیڅ آلماری نشته — لومړی اضافه کړئ",
+  "noFloor": "هیڅ پوړ نشته — لومړی اضافه کړئ",
+  "noShelf": "هیڅ شیلف نشته",
+  "noFile": "هیڅ فایل نشته",
+
+  "confirmDelete": "ایا تاسو ډاډه یاست چې حذف یې کړئ؟",
+  "notRecoverable": "دا عمل بیرته نه راګرځي",
+
+  "loadError": "د معلوماتو لوستلو کې ستونزه",
+  "saveError": "د ذخیره کولو کې ستونزه",
+  "deleteError": "د حذف کولو کې ستونزه",
+
+  "successAdd": "په بریالیتوب سره اضافه شو",
+  "successUpdate": "په بریالیتوب سره تازه شو",
+  "successDelete": "په بریالیتوب سره حذف شو",
+
+  "clickToExpand": "د پراخولو لپاره کلیک وکړئ"
+}

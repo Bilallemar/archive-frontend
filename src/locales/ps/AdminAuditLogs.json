@@ -1,0 +1,42 @@
+{
+  "title": "د ممیزی لاګونه",
+  "description": "د سیسټم ټول فعالیتونه تعقیب کړئ په شمول د جوړولو، تازه کولو او حذف کولو عملیات په ټولو جدولونو کې.",
+
+  "stats": {
+    "create": "جوړول",
+    "create.label": "نوي ثبتونه",
+    "update": "تازه کول",
+    "update.label": "بدل شوي ثبتونه",
+    "delete": "حذف",
+    "delete.label": "حذف شوي ثبتونه",
+    "total": "ټول لاګونه",
+    "total.label": "ټول فعالیتونه"
+  },
+
+  "table": {
+    "action": "عملیات",
+    "username": "کارن نوم",
+    "tableModel": "جدول / ماډل",
+    "recordId": "ریکارډ ID",
+    "content": "محتوا",
+    "timestamp": "وخت",
+    "actions": "عملیات"
+  },
+
+  "button": {
+    "view": "لیدل"
+  },
+
+  "unknown": "—",
+  "noData": "هیڅ ممیزی لاګ ونه موندل شو",
+  "loading": "په بار کې دی...",
+
+  "error": {
+    "fetchFailed": "د ممیزی لاګونو راوړلو کې ستونزه"
+  },
+
+  "pagination": {
+    "rowsPerPage": "په هره پاڼه کې د کرښو شمېر:",
+    "displayedRows": "{{from}}–{{to}} له {{count}}"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "page": {
+    "shuraAaliResolutions": "مصوبات شورای عالی",
+    "newResolution": "مصوبه جدید شورای عالی",
+    "editResolution": "ویرایش مصوبه شورای عالی",
+    "viewResolution": "مشاهده مصوبه شورای عالی",
+    "newYadasht": "یاداشت جدید شورای عالی",
+    "editYadasht": "ویرایش یاداشت شورای عالی",
+    "viewYadasht": "مشاهده یاداشت شورای عالی",
+    "viewMosawaba":"مشاهده مصوبه شورای عالی",
+    "back": "بازگشت"
+  },
+  "table": {
+    "id": "شماره",
+    "sendDate": "تاریخ ارسال",
+    "subject": "موضوع",
+    "senderRef": "مرجع ارسال‌کننده",
+    "title": "عنوان",
+    "type": "نوعیت مصوبات",
+    "letterNo": "نمبر مکتوب",
+    "resolutionNumber": "شماره مصوبه / یاداشت",
+    "year": "سال تصویب",
+    "badgetype": "نوعیت",
+    "remarks": "ملاحظات",
+    "actions": "عملیات"
+  },
+  "form": {
+    "sendDate": "تاریخ ارسال",
+    "subject": "موضوع",
+    "senderReference": "مرجع ارسال‌کننده",
+    "title": "عنوان",
+    "resolutionType": "نوعیت مصوبات",
+    "yadashtType": "نوعیت یاداشت",
+    "letterNumber": "نمبر مکتوب",
+    "resolutionNumber": "شماره مصوبه",
+    "yadashtNumber": "شماره یاداشت",
+    "approvalYear": "سال تصویب",
+    "remarks": "ملاحظات",
+    "remarksPlaceholder": "ملاحظات را اینجا درج نمایید...",
+    "required": "این بخش الزامی است"
+  },
+  "actions": {
+    "view": "مشاهده",
+    "edit": "ویرایش",
+    "delete": "حذف",
+    "save": "ثبت",
+    "saveChanges": "ثبت تغییرات",
+    "cancel": "لغو",
+    "close": "بستن",
+    "saving": "در حال ثبت...",
+    "mosawaba": "مصوبه شورای عالی",
+    "yadasht": "یاداشت شورای عالی",
+    "all": "همه",
+    "newMosawaba": "مصوبه جدید شورای عالی",
+    "newYadasht": "یاداشت جدید شورای عالی"
+  },
+  "messages": {
+    "loadError": "در هنگام بارگذاری مصوبات خطا رخ داد",
+    "deleteSuccess": "مصوبه با موفقیت حذف گردید",
+    "deleteFailed": "در هنگام حذف مصوبه خطا رخ داد",
+    "updateSuccess": "مصوبه با موفقیت به‌روزرسانی گردید",
+    "updateFailed": "در هنگام به‌روزرسانی مصوبه خطا رخ داد",
+    "created": "مصوبه با موفقیت ثبت گردید",
+    "createFailed": "در هنگام ثبت مصوبه خطا رخ داد",
+    "subjectRequired": "درج موضوع الزامی می‌باشد"
+  },
+  "deleteDialog": {
+    "confirmDelete": "تأیید حذف",
+    "deleteWarning": "آیا اطمینان دارید که می‌خواهید این مصوبه را حذف نمایید؟ این عمل قابل بازگشت نمی‌باشد."
+  },
+
+    "cabinetAddress": "آدرس آلماری اضافه کنید",
+  "cabinet": "آلماری",
+  "floor": "طبقه",
+  "shelf": "شیلف",
+  "file": "فایل",
+  "files": "فایل‌ها",
+  "shelfs": "شیلف‌ها",
+  "floors": "طبقه‌ها",
+    "rowsPerPage": "تعداد در هر صفحه",
+     "of": "از"
+}

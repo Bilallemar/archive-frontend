@@ -1,0 +1,26 @@
+{
+  "pageTitle": "د ریکارډ ID لپاره د ممیزی لاګونه — {{recordId}}",
+  "backButton": "شاته",
+
+  "noLogsFound": "د دې ریکارډ لپاره هیڅ لاګ ونه موندل شو.",
+  "loading": "په بار کې دی...",
+  "error": {
+    "fetch": "د لاګونو راوړلو کې ستونزه"
+  },
+
+  "table": {
+    "action": "عملیات",
+    "username": "کارن نوم",
+    "tableName": "جدول",
+    "recordId": "ریکارډ ID",
+    "content": "محتوا",
+    "timestamp": "وخت"
+  },
+
+  "unknown": "—",
+
+  "pagination": {
+    "rowsPerPage": "په هره پاڼه کې د کرښو شمېر:",
+    "displayedRows": "{{from}}–{{to}} له {{count}}"
+  }
+}

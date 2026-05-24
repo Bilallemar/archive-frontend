@@ -1,0 +1,127 @@
+{
+  "viewOutgoing": "نمایش ریکارد صادره",
+  "viewIncoming": "نمایش ریکار وارده",
+  "page": {
+    "title": "کتاب وارده و صادره",
+    "newRecord": "ثبت جدید",
+    "recordTypeForDirection": "نوع ریکارد"
+
+  },
+  "table": {
+    "headers": {
+      "no": "نمبر کتاب",
+      "org": "مرسل",
+      "subjectType": "موضوع",
+      "letterNumber": "نمبر مکتوب",
+      "incommingDate": "تاریخ مکتوب وارده",
+      "outgoingDate": "تاریخ مکتوب صادره",
+      "summary": "خلاصه مطلب",
+      "description": "ملاحظات",
+      "direction": "نوعیت",
+      "actions": "عملیات"
+    }
+  },
+  "filter": {
+    "recordType": "نوع سند",
+    "all": "همه",
+    "incomming": "وارده",
+    "outgoing": "صادره",
+    "bookNumber": "نمبر کتاب",
+    "province": "ولایت",
+    "district": "ولسوالی"
+  },
+  "actions": {
+    "view": "مشاهده",
+    "edit": "ویرایش",
+    "delete": "حذف",
+    "newWarada": "ثبت وارده جدید",
+    "newSadera": "ثبت صادره جدید"
+  },
+  "deleteDialog": {
+    "title": "حذف سند؟",
+    "text": "آیا مطمئن هستید که این سند حذف شود؟ این عمل قابل برگشت نیست.",
+    "cancel": "انصراف",
+    "confirm": "حذف",
+    "success": "سند موفقانه حذف شد",
+    "error": "حذف سند ناموفق بود"
+  },
+  "scanner": {
+    "folderPath": "فولدر اسکنر",
+    "folderTitle": "فولدر اسکنر",
+    "folder": "فولدر اسکنر",
+    "scanButton": "اسکن",
+    "scanning": "در حال اسکن...",
+    "loadFiles": "بارگذاری فایل‌ها",
+    "clickToScan": "برای اسکن کلیک کنید",
+    "filesAvailable": "فایل موجود است",
+    "detectedFiles": "فایل‌های شناسایی شده",
+    "noFiles": "هیچ فایلی یافت نشد",
+    "filesFound": "فایل یافت شد",
+    "scanError": "خطا در اسکن",
+    "loadSuccess": "فایل‌ها موفقانه بارگذاری شد",
+    "loadError": "خطا در بارگذاری فایل‌ها"
+  },
+  "upload": {
+    "manualUpload": "افزودن فایل دستی",
+    "readyToUpload": "آماده بارگذاری",
+    "removeAll": "حذف همه"
+  },
+  "edit": {
+    "title": "ویرایش کتاب وارده و صادره",
+    "uploadNew": "افزودن فایل جدید",
+    "newFiles": "فایل جدید",
+    "existingFiles": "فایل‌های قبلی",
+    "newFilesList": "فایل‌های جدید:",
+    "allowedFormats": "فرمت‌های مجاز: jpg, png, pdf",
+    "maxSize": "حداکثر حجم ۵ مگابایت",
+    "replaceWarning": "⚠ فایل‌های جدید جایگزین قبلی می‌شود",
+    "recordType": "نوع سند",
+    "hifziya": "حفظیه",
+    "makhzan": "مخزن",
+    "no": "نمبر کتاب",
+    "org": "مرسل",
+    "subjectType": "موضوع",
+    "letterNumber": "نمبر مکتوب",
+    "incommingDate": "تاریخ وارده",
+    "outgoingDate": "تاریخ صادره",
+    "summary": "خلاصه مطلب",
+    "description": "ملاحظات",
+    "loading": "در حال بارگذاری...",
+    "required": "این بخش الزامی است",
+    "cancel": "لغو",
+    "save": "ذخیره",
+    "saving": "در حال ذخیره...",
+    "loadError": "خطا در بارگذاری معلومات",
+    "requiredFields": "لطفاً تمام بخش‌های ضروری را تکمیل نمایید",
+    "updateSuccess": "سند موفقانه بروزرسانی شد",
+    "updateError": "بروزرسانی ناموفق بود"
+  },
+  "view": {
+    "scanButtonInfo": "برای اسکن کلیک کنید",
+    "scan": "اسکن",
+    "Addtitle": "ثبت جدید وارده و صادره",
+    "title": "جزئیات سند",
+    "number": "شماره",
+    "organization": "مرسل",
+    "subjectType": "موضوع",
+    "letterNumber": "نمبر مکتوب",
+    "incommingDate": "تاریخ وارده",
+    "outgoingDate": "تاریخ صادره",
+    "summary": "خلاصه",
+    "description": "ملاحظات",
+    "noData": "هیچ سندی انتخاب نشده",
+    "close": "بستن"
+  },
+  
+    "cabinetAddress": "آدرس آلماری اضافه کنید",
+  "cabinet": "آلماری",
+  "floor": "طبقه",
+  "shelf": "شیلف",
+  "file": "فایل",
+  "files": "فایل‌ها",
+  "shelfs": "شیلف‌ها",
+  "floors": "طبقه‌ها"
+  ,
+  "rowsPerPage": "تعداد سطر در هر صفحه",
+     "of": "از"
+}

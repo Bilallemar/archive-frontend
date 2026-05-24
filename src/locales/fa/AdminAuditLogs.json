@@ -1,0 +1,42 @@
+{
+  "title": "لاگ‌های ممیزی",
+  "description": "پیگیری تمام فعالیت‌های سیستم شامل عملیات ایجاد، به‌روزرسانی و حذف در تمام جداول.",
+
+  "stats": {
+    "create": "ایجاد",
+    "create.label": "ثبت‌های جدید",
+    "update": "به‌روزرسانی",
+    "update.label": "ثبت‌های ویرایش‌شده",
+    "delete": "حذف",
+    "delete.label": "ثبت‌های حذف‌شده",
+    "total": "کل لاگ‌ها",
+    "total.label": "تمام فعالیت‌ها"
+  },
+
+  "table": {
+    "action": "عملیات",
+    "username": "نام کاربری",
+    "tableModel": "جدول / مدل",
+    "recordId": "شناسه رکورد",
+    "content": "محتوا",
+    "timestamp": "زمان",
+    "actions": "عملیات"
+  },
+
+  "button": {
+    "view": "مشاهده"
+  },
+
+  "unknown": "—",
+  "noData": "هیچ لاگ ممیزی یافت نشد",
+  "loading": "در حال بارگذاری...",
+
+  "error": {
+    "fetchFailed": "خطا در بارگذاری لاگ‌های ممیزی"
+  },
+
+  "pagination": {
+    "rowsPerPage": "تعداد ردیف در هر صفحه:",
+    "displayedRows": "{{from}}–{{to}} از {{count}}"
+  }
+}

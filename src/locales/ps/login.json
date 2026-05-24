@@ -1,0 +1,40 @@
+{
+  "welcomeBack": " سلام  ښه راغلاست !",
+
+  "welcomeDescription": "خپل کارونه د منظم او معیاري کاري بهیرونو له لارې په اغېزمن ډول مدیریت کړئ.",
+
+  "signIn": "خپل حساب ته ننوتل",
+  "dontHaveAccount": "حساب نلرئ؟",
+  "getStarted": "شروع وکړئ",
+
+  "demoInfo": "د کارونې لپاره د مثال معلومات: کارن نوم admin او پټ نوم adminPass",
+
+  "usernameLabel": "کارن نوم",
+  "usernamePlaceholder": "خپل کارن نوم داخل کړئ",
+  "usernameRequired": "کارن نوم اړین دی",
+
+  "passwordLabel": "پټ نوم",
+  "passwordPlaceholder": "خپل پټ نوم داخل کړئ",
+  "passwordRequired": "پټ نوم اړین دی",
+
+  "forgotPassword": "پټ نوم مو هېر شوی؟",
+
+  "signInButton": "ننوتل",
+  "loading": "بارول...",
+
+  "verify2FA": "د ۲FA تایید",
+  "verify2FADescription": "د ۲FA تصدیق بشپړولو لپاره سم کوډ داخل کړئ",
+
+  "enterCodeLabel": "کوډ داخل کړئ",
+  "enterCodePlaceholder": "خپل د ۲FA کوډ داخل کړئ",
+  "codeRequired": "کوډ اړین دی",
+
+  "invalidCredentials": "نادرست معلومات",
+  "notAssigned": "تاسو ته څانګه تعین شوې نه ده. د اډمین سره اړیکه ونیسئ",
+  "loginError": "د لاګین په بهیر کې ستونزه رامنځته شوه",
+  "verify2FASuccess": "مهرباني وکړئ د ۲FA کوډ تایید کړئ",
+  "invalid2FACode": "غلط ۲FA کوډ. بیا هڅه وکړئ",
+
+  "welcomeToast": "ښه راغلاست!",
+  "info": "آرشیف مدیریتي سیستم"
+}

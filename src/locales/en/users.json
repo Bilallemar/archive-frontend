@@ -1,0 +1,25 @@
+{
+  "title": "All Users",
+
+  "columns": {
+    "username": "User Name",
+    "email": "Email",
+    "createdAt": "Created At",
+    "status": "Status",
+    "action": "Action"
+  },
+
+  "status": {
+    "active": "Active",
+    "inactive": "Inactive"
+  },
+
+  "buttons": {
+    "view": "View"
+  },
+
+  "messages": {
+    "loading": "Please wait...",
+    "fetchError": "Error fetching users"
+  }
+}

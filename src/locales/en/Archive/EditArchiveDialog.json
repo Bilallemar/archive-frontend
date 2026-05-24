@@ -1,0 +1,21 @@
+{
+  "title": "Edit Archive",
+  "type": "Type",
+  "incoming": "Incoming",
+  "outgoing": "Outgoing",
+  "docNo": "Document Number",
+  "incomingDate": "Incoming Date",
+  "outgoingDate": "Outgoing Date",
+  "organization": "Organization",
+  "submittedDate": "Submitted Date",
+  "docType": "Document Type",
+  "year": "Year",
+  "description": "Notes",
+  "cancel": "Cancel",
+  "saveChanges": "Save Changes",
+  "saving": "Saving...",
+  "loadOrgError": "Failed to load organizations",
+  "validationError": "Please fill in document number and organization",
+  "updateSuccess": "Archive updated successfully",
+  "updateFailed": "Update failed"
+}

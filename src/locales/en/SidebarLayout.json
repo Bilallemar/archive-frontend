@@ -1,0 +1,19 @@
+{
+  "appName": "Supreme Court",
+  "appSubTitle": "Islamic Emirate of Afghanistan",
+  "dashboard": "Dashboard",
+  "archive": "Archive Management",
+  "hifziya": "Hifziya Management",
+  "makzan": "Makzan Management",
+  "settings": "Settings",
+  "profile": "Profile",
+  "users": "Users",
+  "auditLogs": "Audit Logs",
+  "userManagement": "User Management",
+  "logout": "Logout",
+  "notifications": "Notifications",
+  "languagePashto": "Pashto",
+  "languageDari": "Dari",
+  "languageEnglish": "English",
+  "user": "User"
+}

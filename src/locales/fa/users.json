@@ -1,0 +1,25 @@
+{
+  "title": "تمام کاربران",
+
+  "columns": {
+    "username": "نام کاربری",
+    "email": "ایمیل",
+    "createdAt": "تاریخ ایجاد",
+    "status": "وضعیت",
+    "action": "عملیات"
+  },
+
+  "status": {
+    "active": "فعال",
+    "inactive": "غیرفعال"
+  },
+
+  "buttons": {
+    "view": "مشاهده"
+  },
+
+  "messages": {
+    "loading": "لطفاً صبر کنید...",
+    "fetchError": "خطا در دریافت کاربران"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "pageTitle": "Storage Annual Report",
+  "newReport": "New Report",
+  "addNewReport": "Add Storage Annual Report",
+  "filter": "Filter",
+  "search": "Search",
+
+  "province": "Province",
+  "district": "District",
+  "address": "Address",
+  "year": "Year",
+  "docType": "Document Type",
+  "summaryWaseqa": "Document Summary",
+  "description": "Remarks",
+  "actions": "Actions",
+
+  "view": "View",
+  "edit": "Edit",
+  "delete": "Delete",
+
+  "save": "Save",
+  "cancel": "Cancel",
+  "back": "Back",
+  "close": "Close",
+
+  "viewDetails": "Report Details",
+  "editReport": "Edit Report",
+
+  "deleteConfirmTitle": "Delete Report?",
+  "deleteConfirmMessage": "Are you sure you want to delete this report?",
+  "noReportSelected": "No report selected",
+
+  "addressLabel": "Address",
+  "yearLabel": "Year",
+  "docTypeLabel": "Document Type",
+  "summaryWaseqaLabel": "Document Summary",
+  "remarksLabel": "Remarks",
+
+  "required": "Required",
+  "yearRequired": "Year is required",
+  "requiredField": "This field is required",
+  "fillRequired": "Please fill all required fields",
+
+  "selectProvince": "Select Province",
+  "selectDistrict": "Select District",
+  "selectDocType": "Select Document Type",
+
+  "scannerFolderTitle": "Scanner Folder",
+  "clickToScan": "Click to Scan",
+  "scanButton": "Scan",
+  "scanning": "Scanning...",
+  "loadFiles": "Load Files",
+  "detectedFiles": "Detected Files",
+  "manualUpload": "Manual Upload",
+  "readyToUpload": "Ready to Upload",
+
+  "noFilesFound": "No files found",
+  "filesDetected": "Files detected successfully",
+  "scanError": "Scan failed",
+  "filesLoadError": "Failed to load files",
+
+  "createSuccess": "Report created successfully",
+  "createError": "Creation failed",
+  "updateSuccess": "Report updated successfully",
+  "updateError": "Update failed",
+  "deleteSuccess": "Report deleted successfully",
+  "deleteError": "Deletion failed",
+
+  "loadError": "Failed to load data",
+
+  "loading": "Loading...",
+  "saving": "Saving...",
+  "updating": "Updating...",
+
+  "saveChanges": "Save Changes",
+    "cabinetAddress": " Add Cabinet Address",
+  "cabinet": "Cabinet",
+  "floor": "Floor",
+  "shelf": "Shelf",
+  "file": "File",
+  "files": "Files",
+  "shelfs": "Shelfs",
+  "floors": "Floors",
+   "rowsPerPage": "Rows per page",
+  "of": "Of"
+}

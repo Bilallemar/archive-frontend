@@ -1,0 +1,21 @@
+{
+  "title": "د آرشیف تازه کول",
+  "type": "ډول",
+  "incoming": "وارده",
+  "outgoing": "صادره",
+  "docNo": "نمبر مکتوب",
+  "incomingDate": "تاریخ وارده",
+  "outgoingDate": "تاریخ صادره",
+  "organization": "اداره",
+  "submittedDate": "د شعبه نیټه",
+  "docType": "نوع سند",
+  "year": "سال",
+  "description": "ملاحظات",
+  "cancel": "لغوه",
+  "saveChanges": "ذخیره تغییرات",
+  "saving": "ذخیره کیږي...",
+  "loadOrgError": "د ادارو لوډولو کې ستونزه",
+  "validationError": "لطفاً نمبر سند او اداره ضروری دي",
+  "updateSuccess": "آرشیف په بریالیتوب سره تازه شو",
+  "updateFailed": "تازه کول ناکام شو"
+}

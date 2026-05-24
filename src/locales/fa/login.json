@@ -1,0 +1,39 @@
+{
+  "welcomeBack": "!سلام، خوش آمدید",
+  "welcomeDescription": "با جریان‌های کاری مؤثر به صورت کارآمد کار کنید.",
+
+  "signIn": "وارد حساب خود شوید",
+  "dontHaveAccount": "حساب ندارید؟",
+  "getStarted": "شروع کنید",
+
+  "demoInfo": "برای استفاده، اطلاعات نمونه: نام کاربری admin و رمز عبور adminPass",
+
+  "usernameLabel": "نام کاربری",
+  "usernamePlaceholder": "نام کاربری خود را وارد کنید",
+  "usernameRequired": "نام کاربری الزامی است",
+
+  "passwordLabel": "رمز عبور",
+  "passwordPlaceholder": "رمز عبور خود را وارد کنید",
+  "passwordRequired": "رمز عبور الزامی است",
+
+  "forgotPassword": "رمز عبور خود را فراموش کرده‌اید؟",
+
+  "signInButton": "وارد شوید",
+  "loading": "در حال بارگذاری...",
+
+  "verify2FA": "تأیید ۲FA",
+  "verify2FADescription": "کد صحیح را برای تکمیل تأیید ۲FA وارد کنید",
+
+  "enterCodeLabel": "کد را وارد کنید",
+  "enterCodePlaceholder": "کد ۲FA خود را وارد کنید",
+  "codeRequired": "کد الزامی است",
+
+  "invalidCredentials": "اطلاعات نادرست است",
+  "notAssigned": "برای شما مدیریت تعیین نشده است. با ادمین تماس بگیرید",
+  "loginError": "خطا در روند ورود",
+  "verify2FASuccess": "لطفاً کد ۲FA را تأیید کنید",
+  "invalid2FACode": "کد ۲FA نادرست است. دوباره تلاش کنید",
+
+  "welcomeToast": "خوش آمدید!",
+  "info": "سیستم مدیریتي آرشیف"
+}

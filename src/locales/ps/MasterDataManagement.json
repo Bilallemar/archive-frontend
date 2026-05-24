@@ -1,0 +1,107 @@
+{
+  "title": "د معلوماتو مدیریت",
+
+  "organizations": "ادارې/ ریاستونه",
+  "departments": "څانګې/ مدیریتونه",
+  "types": "  دموقعیت ډول",
+  "subTypes": "د کارمند ډولونه",
+  "docTypes": "د اسنادو ډولونه",
+  "locations": "موقعیتونه",
+
+  "cabinetManagement": "د آلماریو مدیریت",
+
+  "newOrganization": "نوې اداره",
+  "newDepartment": "نوې څانګه",
+  "newType": "نوی ډول",
+  "newSubType": "نوی فرعي ډول",
+  "newDocType": "نوی سند ډول",
+
+  "name": "نوم",
+  "description": "تفصیل",
+  "status": "حالت",
+
+  "active": "فعال",
+  "inactive": "غیرفعال",
+
+  "save": "ذخیره",
+  "cancel": "لغوه",
+  "edit": "سمون",
+  "delete": "حذف",
+
+  "id": "ID",
+  "actions": "عملیات",
+  "organization": "اداره",
+  "type": "ډول",
+
+  "confirmDelete": "ایا تاسو ډاډه یاست؟",
+
+  "loadError": "د معلوماتو لوډولو کې ستونزه",
+  "operationFailed": "عملیه ناکامه شوه",
+  "requiredName": "نوم ضروری دی",
+
+  "docTypeUpdated": "د سند ډول تازه شو",
+  "docTypeAdded": "د سند ډول اضافه شو",
+  "docTypeDeleted": "د سند ډول حذف شو",
+
+  "organizationUpdated": "اداره تازه شوه",
+  "organizationAdded": "اداره اضافه شوه",
+  "organizationDeleted": "اداره حذف شوه",
+
+  "departmentUpdated": "څانګه تازه شوه",
+  "departmentAdded": "څانګه اضافه شوه",
+  "departmentDeleted": "څانګه حذف شوه",
+
+  "typeUpdated": "ډول تازه شو",
+  "typeAdded": "ډول اضافه شو",
+  "typeDeleted": "ډول حذف شو",
+
+  "subTypeUpdated": "فرعی ډول تازه شو",
+  "subTypeAdded": "فرعی ډول اضافه شو",
+  "subTypeDeleted": "فرعی ډول حذف شو",
+  "loadOrgsError": "د ادارو لوډولو کې ستونزه",
+  "loadDepartmentsError": "د څانګو لوډولو کې ستونزه",
+  "loadTypesError": "د ډولونو لوډولو کې ستونزه",
+
+  "nameRequired": "نوم ضروری دی",
+  "nameAndOrgRequired": "نوم او اداره دواړه ضروری دي",
+  "nameAndTypeRequired": "نوم او ډول دواړه ضروری دي",
+
+  "organizationUpdateSuccess": "اداره تازه شوه",
+  "organizationCreateSuccess": "اداره اضافه شوه",
+  "organizationDeleteSuccess": "اداره حذف شوه",
+
+  "departmentUpdateSuccess": "څانګه تازه شوه",
+  "departmentCreateSuccess": "څانګه اضافه شوه",
+  "departmentDeleteSuccess": "څانګه حذف شوه",
+
+  "typeUpdateSuccess": "ډول تازه شو",
+  "typeCreateSuccess": "ډول اضافه شو",
+  "typeDeleteSuccess": "ډول حذف شو",
+
+  "subTypeUpdateSuccess": "فرعی ډول تازه شو",
+  "subTypeCreateSuccess": "فرعی ډول اضافه شو",
+  "subTypeDeleteSuccess": "فرعی ډول حذف شو",
+
+  "toggleStatusSuccess": "حالت بدل شو",
+  "toggleStatusFailed": "حالت بدلول ناکام شو",
+
+  "deleteFailed": "حذف ناکام شو",
+
+  "orgNameLabel": "د ادارې نوم",
+  "departmentNameLabel": "د څانګې نوم",
+  "typeNameLabel": "د ډول نوم",
+  "subTypeNameLabel": "د فرعی ډول نوم",
+  "docTypeNameLabel": "د سند ډول نوم",
+
+  "editOrganizationTitle": "اداره تازه کول",
+  "newOrganizationTitle": "نوې اداره",
+
+  "editDepartmentTitle": "څانګه تازه کول",
+  "newDepartmentTitle": "نوې څانګه",
+
+  "editTypeTitle": "ډول تازه کول",
+  "newTypeTitle": "نوی ډول",
+
+  "editSubTypeTitle": "فرعی ډول تازه کول",
+  "newSubTypeTitle": "نوی فرعی ډول"
+}

@@ -1,0 +1,138 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Scanner Test</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        max-width: 800px;
+        margin: 50px auto;
+        padding: 20px;
+      }
+      button {
+        padding: 15px 30px;
+        font-size: 16px;
+        margin: 10px;
+        cursor: pointer;
+      }
+      #status {
+        margin: 20px 0;
+        padding: 15px;
+        border-radius: 5px;
+        background: #f0f0f0;
+      }
+      .success {
+        background: #d4edda !important;
+        color: #155724;
+      }
+      .error {
+        background: #f8d7da !important;
+        color: #721c24;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Scanner Bridge Test</h1>
+
+    <div id="status">Status: Not checked yet</div>
+
+    <button onclick="checkStatus()">1. Check Bridge Status</button>
+    <button onclick="testScan()">2. Test Scanner (NEW SYSTEM)</button>
+    <button onclick="checkSpringBoot()">3. Check Spring Boot</button>
+
+    <div id="results" style="margin-top: 20px"></div>
+
+    <script>
+      const BRIDGE_URL = "http://localhost:9090";
+      const BACKEND_URL = "http://localhost:8081";
+
+      async function checkStatus() {
+        try {
+          const response = await fetch(`${BRIDGE_URL}/status`);
+          const data = await response.json();
+
+          document.getElementById("status").innerHTML = `
+                    <strong>✓ C# Bridge is Running!</strong><br>
+                    Scanner Available: ${data.scannerAvailable ? "YES ✓" : "NO (normal if no scanner connected)"}<br>
+                    Message: ${data.message}
+                `;
+          document.getElementById("status").className = "success";
+        } catch (error) {
+          document.getElementById("status").innerHTML = `
+                    <strong>✗ C# Bridge is NOT Running!</strong><br>
+                    Error: ${error.message}<br>
+                    Make sure the console app is running.
+                `;
+          document.getElementById("status").className = "error";
+        }
+      }
+
+      async function testScan() {
+        const resultsDiv = document.getElementById("results");
+        resultsDiv.innerHTML =
+          "<p>⏳ Attempting to scan (this will fail if no scanner)...</p>";
+
+        try {
+          const response = await fetch(`${BRIDGE_URL}/scan`, {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify({
+              backendUrl: `${BACKEND_URL}/api/documents/upload`,
+            }),
+          });
+
+          const data = await response.json();
+
+          if (data.success) {
+            resultsDiv.innerHTML = `
+                        <div class="success">
+                            <strong>✓ Scan Successful!</strong><br>
+                            Message: ${data.message}<br>
+                            File Size: ${(data.fileSize / 1024).toFixed(2)} KB
+                        </div>
+                    `;
+          } else {
+            resultsDiv.innerHTML = `
+                        <div class="error">
+                            <strong>✗ Scan Failed</strong><br>
+                            Error: ${data.error}<br>
+                            (This is normal if you don't have a scanner connected)
+                        </div>
+                    `;
+          }
+        } catch (error) {
+          resultsDiv.innerHTML = `
+                    <div class="error">
+                        <strong>✗ Connection Error</strong><br>
+                        ${error.message}
+                    </div>
+                `;
+        }
+      }
+
+      async function checkSpringBoot() {
+        const resultsDiv = document.getElementById("results");
+        try {
+          const response = await fetch(`${BACKEND_URL}/api/documents/list`);
+          const documents = await response.json();
+
+          resultsDiv.innerHTML = `
+                    <div class="success">
+                        <strong>✓ Spring Boot is Running!</strong><br>
+                        Documents in database: ${documents.length}
+                    </div>
+                `;
+        } catch (error) {
+          resultsDiv.innerHTML = `
+                    <div class="error">
+                        <strong>✗ Spring Boot Connection Error</strong><br>
+                        ${error.message}
+                    </div>
+                `;
+        }
+      }
+    </script>
+  </body>
+</html>

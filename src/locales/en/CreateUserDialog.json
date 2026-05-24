@@ -1,0 +1,16 @@
+{
+  "createUser": "Create New User",
+  "username": "Username",
+  "email": "Email",
+  "password": "Password",
+  "role": "Role",
+  "cancel": "Cancel",
+  "create": "Create",
+  "profileImage": "Profile Image (Optional)",
+  "requiredFields": "Please fill all required fields",
+  "successCreate": "User created successfully",
+  "error": "Something went wrong",
+  "usernamePlaceholder": "Enter username",
+  "emailPlaceholder": "Enter email",
+  "passwordPlaceholder": "Enter password"
+}

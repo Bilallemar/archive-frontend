@@ -1,0 +1,55 @@
+{
+  "userDetails": {
+    "profileInformation": {
+      "title": "د پروفایل معلومات",
+      "username": {
+        "label": "کارن نوم",
+        "placeholder": "خپل کارن نوم داخل کړئ",
+        "requiredMessage": "*کارن نوم اړین دی"
+      },
+      "email": {
+        "label": "بریښنالیک",
+        "placeholder": "خپل بریښنالیک داخل کړئ",
+        "requiredMessage": "*بریښنالیک اړین دی"
+      },
+      "password": {
+        "label": "پټ نوم",
+        "placeholder": "خپل پټ نوم داخل کړئ",
+        "requiredMessage": "*پټ نوم اړین دی",
+        "saveButton": "خوندي کړئ",
+        "editButton": "د پټ نوم د سمون لپاره کلیک وکړئ",
+        "cancelButton": "لغوه",
+        "updateSuccess": "د پټ نوم تازه کول بریالي شول"
+      }
+    },
+    "adminActions": {
+      "title": "د اډمین کړنې",
+      "role": {
+        "label": "وظیفه",
+        "updateButton": "وظیفه تازه کړئ",
+        "updateSuccess": "وظیفه تازه شوه",
+        "updateError": "وظیفه تازه نه شوه"
+      },
+      "checkboxes": {
+        "lock": {
+          "label": "حساب بند کړئ",
+          "successMessage": "د حساب د بند حالت تازه کول بریالي شول"
+        },
+        "expire": {
+          "label": "د حساب د پای وخت",
+          "successMessage": "د حساب د پای وخت تازه کول بریالي شول"
+        },
+        "enabled": {
+          "label": "حساب فعال",
+          "successMessage": "د حساب فعال حالت تازه شو"
+        },
+        "credentialsExpire": {
+          "label": "د تصدیق وخت پای ته رسېدلی",
+          "successMessage": "د حساب تصدیق حالت تازه شو"
+        }
+      }
+    },
+    "loading": "مهرباني وکړئ انتظار وکړئ...",
+    "errorFetching": "د کارن د معلوماتو اخیستلو تېروتنه"
+  }
+}

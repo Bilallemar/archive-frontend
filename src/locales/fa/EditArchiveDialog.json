@@ -1,0 +1,21 @@
+{
+  "title": "ویرایش آرشیف",
+  "type": "نوع",
+  "incoming": "وارده",
+  "outgoing": "صادره",
+  "docNo": "نمبر مکتوب",
+  "incomingDate": "تاریخ وارده",
+  "outgoingDate": "تاریخ صادره",
+  "organization": "اداره",
+  "submittedDate": "تاریخ شعبه",
+  "docType": "نوع سند",
+  "year": "سال",
+  "description": "یادداشت‌ها",
+  "cancel": "لغو",
+  "saveChanges": "ذخیره تغییرات",
+  "saving": "در حال ذخیره...",
+  "loadOrgError": "بارگذاری ادارها موفق نشد",
+  "validationError": "لطفاً شماره سند و اداره را وارد کنید",
+  "updateSuccess": "آرشیف با موفقیت بروزرسانی شد",
+  "updateFailed": "بروزرسانی ناموفق بود"
+}

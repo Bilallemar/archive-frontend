@@ -1,0 +1,53 @@
+{
+  "cabinetManagement": "مدیریت آلماري",
+  "cabinet": "آلماري",
+  "floor": "طبقه",
+  "shelf": "شیلف",
+  "file": "فایل",
+  "files": "فایل‌ها",
+  "shelfs": "شیلف‌ها",
+  "floors": "طبقه‌ها",
+
+  "addCabinet": "افزودن آلماري جدید",
+  "editCabinet": "ویرایش آلماري",
+  "deleteCabinet": "حذف آلماري",
+
+  "addFloor": "افزودن طبقه جدید",
+  "editFloor": "ویرایش طبقه",
+  "deleteFloor": "حذف طبقه",
+
+  "addShelf": "افزودن شیلف جدید",
+  "editShelf": "ویرایش شیلف",
+  "deleteShelf": "حذف شیلف",
+
+  "addFile": "افزودن فایل جدید",
+  "editFile": "ویرایش فایل",
+  "deleteFile": "حذف فایل",
+
+  "name": "نام",
+  "location": "موقعیت",
+  "description": "توضیحات",
+  "fileNumber": "شماره فایل",
+
+  "save": "ذخیره",
+  "cancel": "لغو",
+  "delete": "حذف",
+
+  "noCabinet": "هیچ آلماريی وجود ندارد — ابتدا اضافه کنید",
+  "noFloor": "هیچ طبقه‌ای وجود ندارد — ابتدا اضافه کنید",
+  "noShelf": "هیچ شیلفی وجود ندارد",
+  "noFile": "هیچ فایلی وجود ندارد",
+
+  "confirmDelete": "آیا مطمئن هستید که می‌خواهید حذف کنید؟",
+  "notRecoverable": "این عمل قابل بازگشت نیست",
+
+  "loadError": "خطا در بارگذاری اطلاعات",
+  "saveError": "خطا در ذخیره اطلاعات",
+  "deleteError": "خطا در حذف اطلاعات",
+
+  "successAdd": "با موفقیت اضافه شد",
+  "successUpdate": "با موفقیت ویرایش شد",
+  "successDelete": "با موفقیت حذف شد",
+
+  "clickToExpand": "برای باز کردن کلیک کنید"
+}

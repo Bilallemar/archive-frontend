@@ -1,0 +1,11 @@
+{
+  "title": "About Us",
+  "description": "Welcome to SecureNote, your trusted companion for secure and private note-taking. We believe your thoughts and ideas deserve the highest level of protection. Our mission is to ensure your notes are always accessible to you and only you. With advanced encryption and user-friendly features, SecureNote keeps your information safe and confidential.",
+
+  "features": {
+    "feature1": "Add an extra layer of security with two-factor authentication",
+    "feature2": "Your notes are encrypted from the moment they are created",
+    "feature3": "Access your notes from anywhere with complete confidence",
+    "feature4": "Our app is intuitive, simple, and easy to use"
+  }
+}

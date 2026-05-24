@@ -1,0 +1,69 @@
+{
+  "title": "ثبت و مدیریت آرشیف ستره محکمه",
+  "newNasharat": "ثبت نشارت جدید",
+  "newIncoming": "ثبت اسناد وارده",
+  "newOutgoing": "ثبت اسناد صادره",
+  "viewOutgoing": "نمایش ریکارد صادره",
+  "viewIncoming": "نمایش ریکار وارده",
+
+  "recordTypeForDirection": "نوعیت ریکارډ",
+
+  "type": "نوعیت",
+  "incoming": "وارده",
+  "outgoing": "صادره",
+  "all": "همه",
+
+  "docNo": "نمبر مکتوب / پارسل",
+  "departmentDate": "تاریخ شعبه",
+  "incomingDate": "تاریخ وارده",
+  "outgoingDate": "تاریخ صدور",
+  "sendDate": "تاریخ ارسال",
+  "submittedDate": "تاریخ تسلیمی",
+
+  "org": "مرسل",
+  "organization": "مرسل الیه",
+  "sender": "مرسل",
+  "receiver": "مرسل الیه",
+
+  "docType": "نوعیت پارسل",
+  "year": "سال",
+  "description": "ملاحظات",
+  "descriptionPlaceholder": "ملاحظات مربوطه را درج نمایید",
+
+  "view": "مشاهده",
+  "edit": "ویرایش",
+  "delete": "حذف",
+  "save": "ثبت",
+  "cancel": "انصراف",
+  "close": "بستن",
+  "back": "بازگشت",
+
+  "actions": "اجراآت",
+  "rowsPerPage": "تعداد در هر صفحه",
+    "of": "از",
+
+  "search": "جستجو",
+  "fieldDocNo": "نمبر مکتوب",
+  "fieldOrg": "اداره",
+  "fieldYear": "سال",
+  "fieldDocType": "نوع سند",
+
+  "deleteDialogTitle": "تأیید حذف",
+  "deleteDialogText": "آیا مطمئن هستید که این معلومات حذف گردد؟",
+
+  "loading": "در حال بارگذاری معلومات...",
+  "success": "عملیه موفقانه انجام شد",
+  "error": "خطا رخ داده است",
+  "loadError": "خطا در دریافت معلومات",
+  "deleteSuccess": "معلومات موفقانه حذف شد",
+  "deleteError": "خطا در هنگام حذف",
+  "noData": "هیچ معلوماتی موجود نیست",
+  "notAvailable": "موجود نمی‌باشد",
+  "noArchiveSelected": "هیچ آرشیفی انتخاب نشده است",
+  "remarksPlaceholder": "ملاحظات را درج نمایید...",
+
+  "selectOrg": "اداره را انتخاب نمایید",
+  "selectDocType": "نوع سند را انتخاب نمایید",
+
+  "required": "این فیلد الزامی می‌باشد"
+}

@@ -1,0 +1,70 @@
+{
+  "title": "د سترې محکمې د آرشیف ثبت او مدیریت",
+  "newArchive": "نوی آرشیف ثبت",
+  "newIncoming": "د وارده اسنادو ثبت",
+  "newOutgoing": "د صادره اسنادو ثبت",
+  "recordTypeForDirection": "د ریکارډ  ډول ",
+  "viewOutgoing": "د صادره اسنادو لیدل",
+  "viewIncoming": "د وارده اسنادو لیدل",
+
+  "type": "ډول",
+  "incoming": "وارده",
+  "outgoing": "صادره",
+  "all": "ټول",
+
+  "docNo": "د مکتوب / پارسل شمېره",
+  "departmentDate": "د شعبې نېټه",
+  "incomingDate": "د واردې نېټه",
+  "outgoingDate": "د صادرې نېټه",
+  "sendDate": "د لېږلو نېټه",
+  "submittedDate": "د تسلیمي نېټه",
+
+  "org": "مرسل",
+  "organization": " مرسل الیه",
+  "sender": "مرسل",
+  "receiver": "مرسل‌الیه",
+
+  "docType": "د پارسل نوعیت",
+  "year": "کال",
+  "description": "ملاحظات",
+  "descriptionPlaceholder": "اړوند ملاحظات ولیکئ",
+
+  "view": "کتل",
+  "edit": "سمون",
+  "delete": "حذف",
+  "save": "ثبت",
+  "cancel": "لغوه",
+  "close": "تړل",
+  "back": "شاته",
+
+  "actions": "اجراآت",
+  "rowsPerPage": "په هر مخ کې قطارونه",
+     "of": "له",
+
+
+  "search": "لټون",
+  "filter": "فلټر",
+  "fieldDocNo": "د مکتوب شمېره",
+  "fieldOrg": "اداره",
+  "fieldYear": "کال",
+  "fieldDocType": "د سند ډول",
+
+  "deleteDialogTitle": "د حذف تایید",
+  "deleteDialogText": "آیا تاسې ډاډه یاست چې دا ریکارډ حذف کړئ؟",
+
+  "loading": "معلومات پورته کېږي...",
+  "success": "عملیه په بریالیتوب سره ترسره شوه",
+  "error": "ستونزه رامنځته شوه",
+  "loadError": "د معلوماتو د ترلاسه کولو پر مهال ستونزه",
+  "deleteSuccess": "ریکارډ په بریالیتوب سره حذف شو",
+  "deleteError": "د حذف پر مهال ستونزه رامنځته شوه",
+  "noData": "هیڅ معلومات نشته",
+  "notAvailable": "موجود نه دی",
+  "noArchiveSelected": "هیڅ آرشیف نه دی ټاکل شوی",
+  "remarksPlaceholder": "ملاحظات ولیکئ...",
+
+  "selectOrg": "اداره وټاکئ",
+  "selectDocType": "د سند ډول وټاکئ",
+
+  "required": "دا برخه لازمي ده"
+}

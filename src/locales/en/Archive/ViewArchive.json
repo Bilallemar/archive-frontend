@@ -1,0 +1,17 @@
+{
+  "title": "Archive Details",
+  "type": "Type",
+  "incoming": "Incoming",
+  "outgoing": "Outgoing",
+  "docNo": "Document Number",
+  "incomingDate": "Incoming Date",
+  "outgoingDate": "Outgoing Date",
+  "organization": "Organization",
+  "submittedDate": "Submitted Date",
+  "docType": "Document Type",
+  "year": "Year",
+  "description": "Notes",
+  "notAvailable": "N/A",
+  "noArchiveSelected": "No archive selected",
+  "close": "Close"
+}

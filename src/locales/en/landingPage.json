@@ -1,0 +1,40 @@
+{
+  "totalRecipients": "Total Recipients",
+  "totalSenders": "Total Senders",
+  "totalFiles": "Total Files",
+  "last7Days": "Last 7 Days",
+
+  "makzanReceipts": "Makzan Receipts",
+  "makzanAnnualReports": "Makzan Annual Reports",
+  "makzanSubmissionReports": "Makzan Submission Reports",
+
+  "sessionExpired": "Your session has expired. Please log in again.",
+  "accessDenied": "Access denied. Please contact the administrator.",
+  "dashboardLoadError": "Failed to load dashboard data. Please try again.",
+
+  "noManagementAssigned": "You are not assigned to any management. Please contact your administrator.",
+
+  "documentDistribution": "Document Distribution",
+  "total": "Total",
+
+  "sender": "Sender",
+  "recipient": "Recipient",
+  "file": "File",
+
+  "documentsByMonth": "Documents by Month",
+
+  "months": [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec"
+  ]
+}

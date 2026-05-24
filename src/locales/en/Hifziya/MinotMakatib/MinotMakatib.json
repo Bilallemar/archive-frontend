@@ -1,0 +1,128 @@
+{
+  "viewOutgoing": "View Outgoing Documents",
+  "viewIncoming": "View Incoming Documents",
+  "page": {
+    "title": "MinotMakatib Book",
+    "newRecord": "New Record",
+    "recordTypeForDirection": "Record Type",
+     "rowsPerPage": "Rows per page",
+  "of": "Of"
+  },
+  "table": {
+    "headers": {
+      "no": "Number",
+      "org": "Organization",
+      "subject": "Subject ",
+      "letterNumber": "Letter Number",
+      "cartonNumber": "Carton Number",
+      "year": "Year",
+      "summary": "Summary",
+      "description": "Description",
+      "direction": "Direction",
+      "actions": "Actions"
+    }
+  },
+  "filter": {
+    "recordType": "Record Type",
+    "all": "All",
+    "incomming": "Incomming",
+    "outgoing": "Outgoing",
+    "bookNumber": "Book Number",
+    "province": "Province",
+    "district": "District",
+    "filter": "Filter",
+    "search": "Search"
+    
+  },
+  "actions": {
+    "view": "View",
+    "edit": "Edit",
+    "delete": "Delete",
+    "newWarada": "New Incoming",
+    "newSadera": "New Outgoing",
+    "back": "Back"
+  },
+  "deleteDialog": {
+    "title": "Delete Record?",
+    "text": "Are you sure you want to delete this record? This action cannot be undone.",
+    "cancel": "Cancel",
+    "confirm": "Delete",
+    "success": "Record deleted successfully",
+    "error": "Failed to delete record"
+  },
+  "scanner": {
+    "folderPath": "Scanner Folder",
+    "folderTitle": "Scanner Folder",
+    "folder": "Scanner Folder",
+    "scanButton": "Scan",
+    "scanning": "Scanning...",
+    "loadFiles": "Load Files",
+    "clickToScan": "Click scan button",
+    "filesAvailable": "File(s) available",
+    "detectedFiles": "Detected Files",
+    "noFiles": "No files found",
+    "filesFound": "File(s) found",
+    "scanError": "Error scanning folder",
+    "loadSuccess": "Files loaded successfully",
+    "loadError": "Error loading files"
+  },
+  "upload": {
+    "manualUpload": "Add file manually",
+    "readyToUpload": "Ready to upload",
+    "removeAll": "Remove all"
+  },
+  "edit": {
+    "title": "Edit MinotMakatib Book",
+    "uploadNew": "Add new files",
+    "newFiles": "New",
+    "existingFiles": "Existing files",
+    "newFilesList": "New files:",
+    "allowedFormats": "Allowed formats: jpg, png, pdf",
+    "maxSize": "Maximum size 5 MB",
+    "replaceWarning": "⚠ New files will replace old files",
+    "recordType": "Record Type",
+    "hifziya": "Hifziya",
+    "makhzan": "Makhzan",
+    "no": "Number",
+    "org": "Organization",
+    "subject": "Subject ",
+    "letterNumber": "Letter Number",
+    "cartonNumber": "Carton Number",
+    "year": "Year",
+    "summary": "Summary",
+    "description": "Remarks",
+    "loading": "Loading...",
+    "required": "This field is required",
+    "cancel": "Cancel",
+    "save": "Save",
+    "saving": "Saving...",
+    "loadError": "Error loading data",
+    "requiredFields": "Please fill all required fields",
+    "updateSuccess": "Record updated successfully",
+    "updateError": "Update failed"
+  },
+  "view": {
+    "scanButtonInfo": "Click scan button",
+    "scan": "Scan",
+    "Addtitle": "Add New Incoming / Outgoing",
+    "title": "Record Details",
+    "number": "Number",
+    "organization": "Organization",
+    "subject": "Subject ",
+    "letterNumber": "Letter Number",
+    "cartonNumber": "Carton Number",
+    "year": "Year",
+    "summary": "Summary",
+    "description": "Description",
+    "noData": "No record selected",
+    "close": "Close",
+    "cabinetAddress": " Add Cabinet Address",
+    "cabinet": "Cabinet",
+    "floor": "Floor",
+    "shelf": "Shelf",
+    "file": "File",
+    "files": "Files",
+    "shelfs": "Shelfs",
+    "floors": "Floors"
+  }
+}

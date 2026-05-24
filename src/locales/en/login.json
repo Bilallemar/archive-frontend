@@ -1,0 +1,39 @@
+{
+  "welcomeBack": "Welcome back!",
+  "welcomeDescription": "Work more efficiently with streamlined workflows.",
+
+  "signIn": "Sign in to your account",
+  "dontHaveAccount": "Don’t have an account?",
+  "getStarted": "Get started",
+
+  "demoInfo": "Demo credentials: username admin and password adminPass",
+
+  "usernameLabel": "Username",
+  "usernamePlaceholder": "Enter your username",
+  "usernameRequired": "Username is required",
+
+  "passwordLabel": "Password",
+  "passwordPlaceholder": "Enter your password",
+  "passwordRequired": "Password is required",
+
+  "forgotPassword": "Forgot your password?",
+
+  "signInButton": "Sign in",
+  "loading": "Loading...",
+
+  "verify2FA": "2FA Verification",
+  "verify2FADescription": "Enter the correct code to complete 2FA verification",
+
+  "enterCodeLabel": "Enter code",
+  "enterCodePlaceholder": "Enter your 2FA code",
+  "codeRequired": "Code is required",
+
+  "invalidCredentials": "Invalid credentials",
+  "notAssigned": "You are not assigned to a department. Please contact admin.",
+  "loginError": "An error occurred during login",
+  "verify2FASuccess": "Please verify the 2FA code",
+  "invalid2FACode": "Invalid 2FA code. Please try again",
+
+  "welcomeToast": "Welcome!",
+  "info": "Archive Management System"
+}

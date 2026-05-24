@@ -1,0 +1,85 @@
+{
+  "page": {
+    "title": "Attendance Book",
+    "back": "Back",
+    "newIndraj": "New Registration",
+    "newHazari": "New Attendance",
+    "filter": "Filter",
+    "search": "Search",
+     "rowsPerPage": "Rows per page",
+  "of": "Of"
+  },
+  "scanner": {
+    "folderPath": "Scanner Folder",
+    "folderTitle": "Scanner Folder Scan Results",
+    "scanButton": "Scan",
+    "scanning": "Scanning...",
+    "loadFiles": "Load Files",
+    "clickToScan": "Click to Scan Results",
+    "filesAvailable": "Files Loaded",
+    "detectedFiles": "Detected Files",
+    "noFiles": "No files found",
+    "filesFound": "files found",
+    "scanError": "Error scanning",
+    "loadSuccess": "Files loaded successfully",
+    "loadError": "Error loading files"
+  },
+  "upload": {
+    "manualUpload": "Or upload file manually",
+    "readyToUpload": "Ready to Upload",
+    "removeAll": "Remove All"
+  },
+  "form": {
+    "volume": "Volume",
+    "recordType": "Record Type",
+    "indraj": "Registration",
+    "hazari": "Attendance",
+    "type": "Type",
+    "subType": "Employee Type",
+    "year": "Year",
+    "org": "Sender",
+    "description": "Description",
+    "selectTypeFirst": "Select type first",
+    "loading": "Loading...",
+    "all": "All"
+  },
+  "table": {
+    "action": "Action",
+    "actions": "Actions",
+    "direction": "Type"
+  },
+  "actions": {
+    "cancel": "Cancel",
+    "save": "Save",
+    "saving": "Saving...",
+    "view": "View",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm"
+  },
+  "messages": {
+    "loadDataError": "Error loading data",
+    "loadSubTypesError": "Error loading sub-types",
+    "requiredFields": "Please fill all required fields",
+    "createSuccess": "Attendance created successfully",
+    "createError": "Error creating record",
+    "deleteSuccess": "Attendance deleted successfully",
+    "deleteError": "Error deleting record",
+    "updateSuccess": "Attendance updated successfully",
+    "updateError": "Error updating record",
+    "noDataFound": "No attendance found",
+    "remarksPlaceholder": "Enter remarks here..."
+  },
+  "deleteDialog": {
+    "title": "Delete Attendance?",
+    "text": "Are you sure you want to delete this attendance? This action cannot be undone."
+  },
+  "cabinetAddress": " Add Cabinet Address",
+  "cabinet": "Cabinet",
+  "floor": "Floor",
+  "shelf": "Shelf",
+  "file": "File",
+  "files": "Files",
+  "shelfs": "Shelfs",
+  "floors": "Floors"
+}

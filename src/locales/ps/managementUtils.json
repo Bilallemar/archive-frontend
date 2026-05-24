@@ -1,0 +1,25 @@
+{
+  "dashboard": "ډشبورډ",
+  "archiveManagement": "د آرشیف مدیریت",
+  "hifziyaManagement": "د حفظیې مدیریت",
+  "makhzanManagement": "د مخزن مدیریت",
+  "settings": "تنظیمات",
+  "bookAttendance": "د حاضری کتابونه",
+  "incomingOutgoing": " وارداه او صادراه  ",
+  "incidents": "سوانح",
+  "shuraAaliResolutions": "د عالي شورا پریکړې او یادښتونه",
+  "minotMakatib": "د  مکتوبونو مینوټونه", 
+  "archive": "آرشیف",
+  "nasharat": "نشرات",
+  "annualReports": "کلنی راپور",
+  "makhzanwaradaSadera": "  وارداه او صادراه",
+  "receipts": "رسیدونه",
+  "reportInformation": "د راپور معلومات",
+  "masterData": "بنسټیز معلومات",
+  "managementNames": {
+    "archive": "آرشیف",
+    "hifziya": "حفظیه",
+    "makhzan": "مخزن",
+    "nasharat": "تنظیمات"
+  }
+}

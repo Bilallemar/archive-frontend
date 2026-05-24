@@ -1,0 +1,80 @@
+{
+  "title": "فهرست سوانح",
+  "newRecord": "رکورد جدید",
+  "editRecord": "ویرایش سوانح",
+  "newSawanih": "ثبت سوانح جدید",
+  "newIsteqdam": "ثبت استخدام جدید",
+
+  "all": "همه",
+  "sawanih": "سوانح",
+  "isteqdam": "استخدام",
+  "scanner": {
+    "folderPath": " فولدر اسکنر",
+    "folderTitle": "نتایج اسکن فولدر اسکنر",
+    "scanButton": "اسکن",
+    "scanning": "در حال اسکن...",
+    "loadFiles": "بارگذاری فایل‌ها",
+    "clickToScan": "برای مشاهده نتایج اسکن کلیک نمایید",
+    "filesAvailable": "فایل‌ها موجود است",
+    "detectedFiles": "فایل‌های شناسایی‌شده",
+    "noFiles": "هیچ فایلی یافت نشد",
+    "filesFound": "فایل یافت شد",
+    "scanError": "خطا در هنگام اسکن",
+    "loadSuccess": "فایل‌ها موفقانه بارگذاری شد",
+    "loadError": "خطا در بارگذاری فایل‌ها"
+  },
+  "upload": {
+    "manualUpload": "یا فایل را به‌صورت دستی بارگذاری نمایید",
+    "readyToUpload": "آماده بارگذاری",
+    "removeAll": "حذف همه"
+  },
+  "name": "نام",
+  "fatherName": "نام پدر",
+  "qaidWarida": "قید وارده",
+  "incommingDate": "تاریخ وارده",
+  "outgoingDate": "تاریخ صادره",
+  "org": "مرسل",
+  "pageQuantity": "تعداد صفحات",
+  "description": "ملاحظات",
+  "recordStatus": "نوع رکورد",
+
+  "actions": "عملیات",
+  "view": "مشاهده",
+  "edit": "ویرایش",
+  "delete": "حذف",
+  "cancel": "لغو",
+  "close": "بستن",
+  "save": "ذخیره",
+  "saving": "در حال ذخیره‌سازی...",
+  "back": "بازگشت",
+
+  "deleteDialogTitle": "تأیید حذف",
+  "deleteDialogText": "آیا از حذف این رکورد اطمینان دارید؟",
+  "deleteSuccess": "رکورد با موفقیت حذف شد",
+  "deleteError": "در حذف رکورد خطا رخ داد",
+
+  "search": "جستجو",
+  "fieldOrg": "اداره",
+
+  
+
+  "loading": "در حال بارگذاری اطلاعات...",
+  "loadError": "خطا در بارگذاری اطلاعات",
+  "noData": "هیچ اطلاعاتی موجود نیست",
+  "notAvailable": "در دسترس نیست",
+  "noArchiveSelected": "هیچ سوانحی انتخاب نشده است",
+
+
+
+    "cabinetAddress": "آدرس آلماری اضافه کنید",
+  "cabinet": "آلماری",
+  "floor": "طبقه",
+  "shelf": "شیلف",
+  "file": "فایل",
+  "files": "فایل‌ها",
+  "shelfs": "شیلف‌ها",
+  "floors": "طبقه‌ها"
+  ,
+  "rowsPerPage": "تعداد سطر در هر صفحه",
+     "of": "از"
+}

@@ -1,0 +1,16 @@
+{
+  "createUser": "نوی کارن جوړول",
+  "username": "نوم کارن",
+  "email": "برېښنالیک",
+  "password": "پټنوم",
+  "role": "رول",
+  "cancel": "لغوه",
+  "create": "جوړول",
+  "profileImage": "د پروفایل انځور (اختیاري)",
+  "requiredFields": "ټول اړین فیلډونه ډک کړئ",
+  "successCreate": "کارن په بریالیتوب سره جوړ شو",
+  "error": "ستونزه رامنځته شوه",
+  "usernamePlaceholder": "د کارن نوم ولیکئ",
+  "emailPlaceholder": "خپل ایمیل داخل کړئ",
+  "passwordPlaceholder": "پټنوم داخل کړئ"
+}

@@ -1,0 +1,26 @@
+{
+  "pageTitle": "Audit Logs for Record ID — {{recordId}}",
+  "backButton": "Back",
+
+  "noLogsFound": "No logs found for this record.",
+  "loading": "Loading...",
+  "error": {
+    "fetch": "Error fetching logs"
+  },
+
+  "table": {
+    "action": "Action",
+    "username": "Username",
+    "tableName": "Table",
+    "recordId": "Record ID",
+    "content": "Content",
+    "timestamp": "Timestamp"
+  },
+
+  "unknown": "—",
+
+  "pagination": {
+    "rowsPerPage": "Rows per page:",
+    "displayedRows": "{{from}}–{{to}} of {{count}}"
+  }
+}

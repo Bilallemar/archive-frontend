@@ -1,0 +1,55 @@
+{
+  "userDetails": {
+    "profileInformation": {
+      "title": "Profile Information",
+      "username": {
+        "label": "UserName",
+        "placeholder": "Enter your UserName",
+        "requiredMessage": "*UserName is required"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Enter your Email",
+        "requiredMessage": "*Email is required"
+      },
+      "password": {
+        "label": "Password",
+        "placeholder": "Enter your Password",
+        "requiredMessage": "*Password is required",
+        "saveButton": "Save",
+        "editButton": "Click To Edit Password",
+        "cancelButton": "Cancel",
+        "updateSuccess": "password update success"
+      }
+    },
+    "adminActions": {
+      "title": "Admin Actions",
+      "role": {
+        "label": "Role",
+        "updateButton": "Update Role",
+        "updateSuccess": "Update role successful",
+        "updateError": "Update Role Failed"
+      },
+      "checkboxes": {
+        "lock": {
+          "label": "Lock Account",
+          "successMessage": "Update Account Lock status Successful"
+        },
+        "expire": {
+          "label": "Account Expiry",
+          "successMessage": "Update Account Expiry status Successful"
+        },
+        "enabled": {
+          "label": "Account Enabled",
+          "successMessage": "Update Account Enabled status Successful"
+        },
+        "credentialsExpire": {
+          "label": "Credentials Expired",
+          "successMessage": "Update Account Credentials Expired status Successful"
+        }
+      }
+    },
+    "loading": "Please wait...",
+    "errorFetching": "Error fetching user details"
+  }
+}

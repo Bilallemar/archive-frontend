@@ -1,0 +1,55 @@
+{
+  "userDetails": {
+    "profileInformation": {
+      "title": "اطلاعات پروفایل",
+      "username": {
+        "label": "نام کاربری",
+        "placeholder": "نام کاربری خود را وارد کنید",
+        "requiredMessage": "*نام کاربری الزامی است"
+      },
+      "email": {
+        "label": "ایمیل",
+        "placeholder": "ایمیل خود را وارد کنید",
+        "requiredMessage": "*ایمیل الزامی است"
+      },
+      "password": {
+        "label": "رمز عبور",
+        "placeholder": "رمز عبور خود را وارد کنید",
+        "requiredMessage": "*رمز عبور الزامی است",
+        "saveButton": "ذخیره",
+        "editButton": "برای ویرایش رمز عبور کلیک کنید",
+        "cancelButton": "لغو",
+        "updateSuccess": "به‌روزرسانی رمز عبور موفق بود"
+      }
+    },
+    "adminActions": {
+      "title": "اقدامات مدیر",
+      "role": {
+        "label": "نقش",
+        "updateButton": "به‌روزرسانی نقش",
+        "updateSuccess": "به‌روزرسانی نقش موفق بود",
+        "updateError": "به‌روزرسانی نقش ناموفق بود"
+      },
+      "checkboxes": {
+        "lock": {
+          "label": "قفل حساب",
+          "successMessage": "به‌روزرسانی وضعیت قفل حساب موفق بود"
+        },
+        "expire": {
+          "label": "انقضای حساب",
+          "successMessage": "به‌روزرسانی وضعیت انقضای حساب موفق بود"
+        },
+        "enabled": {
+          "label": "حساب فعال",
+          "successMessage": "به‌روزرسانی وضعیت فعال بودن حساب موفق بود"
+        },
+        "credentialsExpire": {
+          "label": "اعتبارنامه منقضی شده",
+          "successMessage": "به‌روزرسانی وضعیت اعتبارنامه موفق بود"
+        }
+      }
+    },
+    "loading": "لطفاً صبر کنید...",
+    "errorFetching": "خطا در دریافت اطلاعات کاربر"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "جزئیات آرشیف",
+  "type": "نوع",
+  "incoming": "وارده",
+  "outgoing": "صادره",
+  "docNo": "نمبر مکتوب",
+  "incomingDate": "تاریخ وارده",
+  "outgoingDate": "تاریخ صادره",
+  "organization": "اداره",
+  "submittedDate": "تاریخ شعبه",
+  "docType": "نوع سند",
+  "year": "سال",
+  "description": "ملاحظات",
+  "notAvailable": "N/A",
+  "noArchiveSelected": "هیچ آرشیفی انتخاب نشده است",
+  "close": "بستن"
+}

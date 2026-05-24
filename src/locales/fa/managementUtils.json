@@ -1,0 +1,26 @@
+{
+  "dashboard": "داشبورد",
+  "archiveManagement": "مدیریت آرشیف",
+  "hifziyaManagement": "مدیریت حفظیه",
+  "makhzanManagement": "مدیریت مخزن",
+  "settings": "تنظیمات",
+  "bookAttendance": "کتاب حاضری",
+  "incomingOutgoing": "وارده صادره",
+  "incidents": "سوانح",
+  "shuraAaliResolutions": "مصوبات و یاداشت ها شورای عالی",
+  "archive": "آرشیف",
+  "minotMakatib": "منوت ها مکاتب ",
+  
+  "makhzanwaradaSadera": "  وارداه و صادراه",
+
+  "annualReports": "راپور سال تمام",
+  "receipts": "رسیدات",
+  "reportInformation": "ارایه معلومات راپور",
+  "masterData": "معلومات اساسی",
+  "nasharat": "نشرات",
+  "managementNames": {
+    "archive": "آرشیف",
+    "hifziya": "حفظیه",
+    "makhzan": "مخزن"
+  }
+}

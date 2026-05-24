@@ -1,0 +1,84 @@
+{
+  "page": {
+    "title": "کتاب حاضری",
+    "back": "بازگشت",
+    "newIndraj": "ثبت اندراج جدید",
+    "newHazari": "ثبت حاضری جدید"
+  },
+  "scanner": {
+    "folderPath": "مسیر فولدر اسکنر",
+    "folderTitle": "نتایج اسکن فولدر اسکنر",
+    "scanButton": "اسکن",
+    "scanning": "در حال اسکن...",
+    "loadFiles": "بارگذاری فایل‌ها",
+    "clickToScan": "برای مشاهده نتایج اسکن کلیک نمایید",
+    "filesAvailable": "فایل‌ها موجود است",
+    "detectedFiles": "فایل‌های شناسایی‌شده",
+    "noFiles": "هیچ فایلی یافت نشد",
+    "filesFound": "فایل یافت شد",
+    "scanError": "خطا در هنگام اسکن",
+    "loadSuccess": "فایل‌ها موفقانه بارگذاری شد",
+    "loadError": "خطا در بارگذاری فایل‌ها"
+  },
+  "upload": {
+    "manualUpload": "یا فایل را به‌صورت دستی بارگذاری نمایید",
+    "readyToUpload": "آماده بارگذاری",
+    "removeAll": "حذف همه"
+  },
+  "form": {
+    "volume": "جلد",
+    "recordType": "نوع ثبت",
+    "indraj": "اندراج",
+    "hazari": "حاضری",
+    "type": "نوع حاضری",
+    "subType": "نوع کارمند",
+    "year": "سال",
+    "org": "مرسل",
+    "description": "ملاحظات",
+    "selectTypeFirst": "ابتدا نوع را انتخاب نمایید",
+    "loading": "در حال بارگذاری...",
+    "all": "همه"
+  },
+  "table": {
+    "action": "عمل",
+    "actions": "اجراآت",
+    "direction": "نوع"
+  },
+  "actions": {
+    "cancel": "انصراف",
+    "save": "ثبت",
+    "saving": "در حال ثبت...",
+    "view": "مشاهده",
+    "edit": "ویرایش",
+    "delete": "حذف",
+    "confirm": "تأیید"
+  },
+  "messages": {
+    "loadDataError": "خطا در بارگذاری معلومات",
+    "loadSubTypesError": "خطا در بارگذاری نوع‌های فرعی",
+    "requiredFields": "لطفاً تمام فیلدهای الزامی را تکمیل نمایید",
+    "createSuccess": "حاضری موفقانه ثبت شد",
+    "createError": "خطا در ثبت معلومات",
+    "deleteSuccess": "حاضری موفقانه حذف شد",
+    "deleteError": "خطا در هنگام حذف",
+    "updateSuccess": "حاضری موفقانه ویرایش شد",
+    "updateError": "خطا در هنگام ویرایش",
+    "noDataFound": "هیچ معلومات حاضری یافت نشد",
+    "remarksPlaceholder": "ملاحظات را درج نمایید..."
+   
+  },
+  "deleteDialog": {
+    "title": "حذف حاضری؟",
+    "text": "آیا مطمئن هستید که این حاضری حذف گردد؟ این عمل قابل بازگشت نمی‌باشد."
+  },
+  "cabinetAddress": "آدرس آلماری اضافه کنید",
+  "cabinet": "آلماری",
+  "floor": "طبقه",
+  "shelf": "شیلف",
+  "file": "فایل",
+  "files": "فایل‌ها",
+  "shelfs": "شیلف‌ها",
+  "floors": "طبقه‌ها",
+     "rowsPerPage": "تعداد در هر صفحه",
+     "of": "از"
+}

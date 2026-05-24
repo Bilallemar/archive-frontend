@@ -1,0 +1,86 @@
+{
+  "pageTitle": "گزارش سالانه مخزن",
+  "newReport": "گزارش جدید",
+  "addNewReport": "ثبت گزارش سالانه جدید",
+
+  "province": "ولایت",
+  "district": "ولسوالی",
+  "address": "آدرس",
+  "year": "سال",
+  "docType": "نوعیت وثیقه",
+  "summaryWaseqa": "خلاصه مطلب وثیقه",
+  "description": "ملاحظات",
+  "actions": "اجراآت",
+
+  "view": "مشاهده",
+  "edit": "ویرایش",
+  "delete": "حذف",
+
+  "save": "ثبت",
+  "cancel": "لغو",
+  "back": "بازگشت",
+  "close": "بستن",
+
+  "viewDetails": "جزئیات گزارش",
+  "editReport": "ویرایش گزارش",
+
+  "deleteConfirmTitle": "حذف گزارش",
+  "deleteConfirmMessage": "آیا اطمینان دارید که می‌خواهید این گزارش را حذف نمایید؟",
+  "noReportSelected": "هیچ گزارشی انتخاب نشده است",
+
+  "addressLabel": "آدرس",
+  "yearLabel": "سال",
+  "docTypeLabel": "نوعیت وثیقه",
+  "summaryWaseqaLabel": "خلاصه مطلب وثیقه",
+  "remarksLabel": "ملاحظات",
+
+  "required": "الزامی",
+  "yearRequired": "سال الزامی است",
+  "requiredField": "این بخش الزامی است",
+  "fillRequired": "لطفاً بخش‌های الزامی را تکمیل نمایید",
+
+  "selectProvince": "انتخاب ولایت",
+  "selectDistrict": "انتخاب ولسوالی",
+  "selectDocType": "انتخاب نوعیت وثیقه",
+
+  "scannerFolderTitle": "پوشه اسکنر",
+  "clickToScan": "برای اسکن کلیک نمایید",
+  "scanButton": "اسکن",
+  "scanning": "در حال اسکن...",
+
+  "loadFiles": "بارگذاری فایل‌ها",
+  "detectedFiles": "فایل‌های شناسایی شده",
+  "manualUpload": "بارگذاری دستی",
+  "readyToUpload": "آماده بارگذاری",
+
+  "noFilesFound": "هیچ فایلی یافت نشد",
+  "filesDetected": "فایل‌ها شناسایی شدند",
+  "scanError": "اسکن ناموفق بود",
+  "filesLoadError": "بارگذاری فایل‌ها ناموفق بود",
+
+  "createSuccess": "گزارش با موفقیت ثبت گردید",
+  "createError": "ثبت گزارش ناموفق بود",
+  "updateSuccess": "گزارش با موفقیت به‌روزرسانی گردید",
+  "updateError": "به‌روزرسانی گزارش ناموفق بود",
+  "deleteSuccess": "گزارش با موفقیت حذف گردید",
+  "deleteError": "در هنگام حذف گزارش مشکل به‌وجود آمد",
+
+  "loadError": "در هنگام بارگذاری اطلاعات مشکل به‌وجود آمد",
+
+  "loading": "در حال بارگذاری...",
+  "saving": "در حال ثبت...",
+  "updating": "در حال به‌روزرسانی...",
+
+  "saveChanges": "ثبت تغییرات",
+
+    "cabinetAddress": "آدرس آلماری اضافه کنید",
+  "cabinet": "آلماری",
+  "floor": "طبقه",
+  "shelf": "شیلف",
+  "file": "فایل",
+  "files": "فایل‌ها",
+  "shelfs": "شیلف‌ها",
+  "floors": "طبقه‌ها",
+    "rowsPerPage": "تعداد در هر صفحه",
+     "of": "از"
+}

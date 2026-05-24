@@ -1,0 +1,375 @@
+/* RTL Global Styles */
+[dir="rtl"] {
+  direction: rtl;
+  text-align: right;
+}
+
+[dir="rtl"] body {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Fix MUI Drawer for RTL */
+[dir="rtl"] .MuiDrawer-paperAnchorLeft {
+  right: 0;
+  left: auto;
+}
+
+[dir="rtl"] .MuiDrawer-paperAnchorDockedLeft {
+  border-right: none;
+  border-left: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+/* Fix AppBar positioning for RTL */
+[dir="rtl"] .MuiAppBar-root {
+  right: 280px;
+  left: auto;
+}
+
+/* ✅ CRITICAL FIX: DO NOT reverse toolbar direction! */
+/* The toolbar should maintain normal flex flow */
+[dir="rtl"] .MuiToolbar-root {
+  /* DO NOT USE flex-direction: row-reverse; */
+  justify-content: space-between;
+}
+
+/* Fix Profile Menu Items */
+.MuiMenuItem-root {
+  display: flex !important;
+  align-items: center;
+}
+
+.MuiMenuItem-root .MuiListItemIcon-root {
+  order: 0 !important;
+  margin-right: 16px;
+  margin-left: 0;
+}
+
+.MuiMenuItem-root .MuiListItemText-root {
+  order: 1 !important;
+  text-align: left;
+  flex: 1;
+  white-space: nowrap;
+}
+
+/* RTL: icon on right, text on left */
+[dir="rtl"] .MuiMenuItem-root .MuiListItemIcon-root {
+  order: 1;
+  margin-left: 16px;
+  margin-right: 0;
+}
+
+[dir="rtl"] .MuiMenuItem-root .MuiListItemText-root {
+  order: 0;
+  text-align: right;
+}
+
+/* Fix IconButton spacing */
+[dir="rtl"] .MuiIconButton-root {
+  margin-right: 0;
+  margin-left: 8px;
+}
+
+/* Fix badges for RTL */
+[dir="rtl"] .MuiBadge-badge {
+  right: auto;
+  left: 0;
+  transform: scale(1) translate(-50%, -50%);
+}
+
+/* Fix select dropdown for RTL */
+[dir="rtl"] .MuiSelect-icon {
+  right: auto;
+  left: 7px;
+}
+
+/* Fix text fields for RTL */
+[dir="rtl"] .MuiInputBase-root {
+  direction: rtl;
+}
+
+[dir="rtl"] .MuiOutlinedInput-notchedOutline {
+  text-align: right;
+}
+
+/* Fix Input Labels for RTL */
+[dir="rtl"] .MuiInputLabel-root {
+  right: 0;
+  left: auto;
+  transform-origin: top right;
+}
+
+[dir="rtl"] .MuiInputLabel-shrink {
+  transform: translate(0, -9px) scale(0.75);
+  transform-origin: top right;
+}
+
+[dir="rtl"] .MuiInputLabel-outlined {
+  transform: translate(-14px, 16px) scale(1);
+}
+
+[dir="rtl"] .MuiInputLabel-outlined.MuiInputLabel-shrink {
+  transform: translate(-14px, -9px) scale(0.75);
+}
+
+[dir="rtl"] .MuiFormHelperText-root {
+  text-align: right;
+  margin-right: 14px;
+  margin-left: 14px;
+}
+
+[dir="rtl"] input[type="date"],
+[dir="rtl"] input[type="time"] {
+  text-align: right;
+  direction: rtl;
+}
+
+/* Fix buttons for RTL */
+[dir="rtl"] .MuiButton-startIcon {
+  margin-right: 0;
+  margin-left: 8px;
+}
+
+[dir="rtl"] .MuiButton-endIcon {
+  margin-right: 8px;
+  margin-left: 0;
+}
+
+/* Fix grid system for RTL */
+[dir="rtl"] .MuiGrid-container {
+  direction: rtl;
+}
+
+/* Fix cards for RTL */
+[dir="rtl"] .MuiCard-root {
+  text-align: right;
+}
+
+/* Fix dialogs for RTL */
+[dir="rtl"] .MuiDialog-paper {
+  direction: rtl;
+}
+
+[dir="rtl"] .MuiDialogTitle-root {
+  text-align: right;
+}
+
+[dir="rtl"] .MuiDialogContent-root {
+  text-align: right;
+}
+
+[dir="rtl"] .MuiDialogActions-root {
+  flex-direction: row-reverse;
+}
+
+/* Fix tables for RTL */
+[dir="rtl"] .MuiTableCell-root {
+  text-align: right;
+}
+
+[dir="rtl"] .MuiTableCell-head {
+  text-align: right;
+}
+
+/* Fix tooltips for RTL */
+[dir="rtl"] .MuiTooltip-tooltip {
+  direction: rtl;
+}
+
+/* Fix snackbar for RTL */
+[dir="rtl"] .MuiSnackbar-root {
+  right: auto;
+  left: 8px;
+}
+
+/* Fix breadcrumbs for RTL */
+[dir="rtl"] .MuiBreadcrumbs-separator {
+  margin-left: 0;
+  margin-right: 8px;
+  transform: scaleX(-1);
+}
+
+/* Fix expansion panel for RTL */
+[dir="rtl"] .MuiAccordionSummary-expandIconWrapper {
+  margin-right: 0;
+  margin-left: 12px;
+}
+
+/* Fix pagination for RTL */
+/* [dir="rtl"] .MuiPagination-ul {
+  flex-direction: row-reverse;
+} */
+/* Fix MUI Table Pagination for RTL */
+[dir="rtl"] .MuiTablePagination-root {
+  direction: rtl;
+}
+
+[dir="rtl"] .MuiTablePagination-toolbar {
+  flex-direction: row-reverse;
+  justify-content: flex-start;
+}
+
+[dir="rtl"] .MuiTablePagination-spacer {
+  flex: 1 1 auto;
+}
+
+[dir="rtl"] .MuiTablePagination-selectLabel {
+  margin-right: 0;
+  margin-left: auto;
+}
+
+[dir="rtl"] .MuiTablePagination-select {
+  margin-right: 8px;
+  margin-left: 0;
+  text-align: right;
+}
+
+[dir="rtl"] .MuiTablePagination-displayedRows {
+  margin-right: auto;
+  margin-left: 0;
+}
+
+[dir="rtl"] .MuiTablePagination-actions {
+  margin-right: 0;
+  margin-left: 20px;
+}
+
+/* Fix select icon position in pagination */
+[dir="rtl"] .MuiTablePagination-select ~ .MuiSvgIcon-root {
+  right: auto;
+  left: 0;
+}
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* LTR specific (English) */
+[dir="ltr"] {
+  direction: ltr;
+  text-align: left;
+}
+
+[dir="ltr"] body {
+  direction: ltr;
+  text-align: left;
+}
+/* ===== NORMALIZED TEXT FIELD HEIGHTS ===== */
+[dir="rtl"] .MuiInputBase-root {
+  align-items: center;
+}
+
+[dir="rtl"] .MuiInputBase-input {
+  text-align: right;
+  direction: rtl;
+  padding: 14px;
+  line-height: 1.5;
+  height: auto;
+}
+
+[dir="rtl"] .MuiInputBase-input::placeholder {
+  text-align: right;
+  direction: rtl;
+  opacity: 0.6;
+  line-height: 1.5;
+}
+
+[dir="rtl"] .MuiOutlinedInput-input {
+  padding: 14px;
+  text-align: right;
+  direction: rtl;
+}
+
+/* ===== SELECT DROPDOWNS ===== */
+[dir="rtl"] .MuiSelect-select {
+  text-align: right !important;
+  direction: rtl !important;
+  padding: 14px !important;
+  padding-left: 32px !important;
+  min-height: auto !important;
+}
+
+[dir="rtl"] .MuiSelect-icon {
+  left: 7px;
+  right: auto;
+}
+
+/* ===== DATE INPUTS ===== */
+[dir="rtl"] input[type="date"] {
+  text-align: right;
+  direction: rtl;
+  padding: 14px;
+  line-height: normal;
+  height: auto;
+}
+
+/* ===== TEXTAREA ===== */
+/* ===== TEXTAREA - SMALLER SIZE ===== */
+[dir="rtl"] .MuiInputBase-multiline {
+  text-align: right;
+  direction: rtl;
+  padding: 0;
+  min-height: 80px !important; /* Smaller */
+}
+
+[dir="rtl"] .MuiInputBase-inputMultiline {
+  text-align: right;
+  direction: rtl;
+  padding: 14px !important;
+  line-height: 1.5;
+  min-height: 50px !important; /* Much smaller */
+  max-height: 150px;
+  overflow-y: auto;
+  resize: vertical;
+}
+
+/* ===== FILE CHIPS ===== */
+/* ===== FILE CHIPS - CORRECT VERSION ===== */
+[dir="rtl"] .MuiChip-root {
+  direction: rtl;
+  flex-direction: row-reverse !important; /* This puts delete on right side */
+  background-color: #1976d2;
+  color: white;
+  border-radius: 16px;
+  height: 32px;
+  margin: 4px;
+}
+
+[dir="rtl"] .MuiChip-label {
+  padding: 0 12px;
+  color: white;
+  font-size: 0.875rem;
+  order: 1;
+}
+
+[dir="rtl"] .MuiChip-deleteIcon {
+  color: rgba(255, 255, 255, 0.7);
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 22px;
+  order: 2;
+}
+
+[dir="rtl"] .MuiChip-deleteIcon:hover {
+  color: white;
+}
+
+/* Make sure delete icon is visible */
+[dir="rtl"] .MuiChip-root .MuiSvgIcon-root {
+  display: block !important;
+  visibility: visible !important;
+}
